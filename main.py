@@ -1,5 +1,5 @@
 import httpx
-from selectolax.parser import HTMLParser
+from selectolax.parser import HTMLParser, Node
 from rich import print
 from urllib.parse import urlencode
 from dotenv import load_dotenv
@@ -37,58 +37,18 @@ def parse_landing_page(html_tree: HTMLParser):
             telephone = extract.telephone(content_node)
             website = extract.website(content_node)
             is_represented = process.determine_if_represented(label, title)
-            consulates = []
+            consulates = extract.consulates(content_node.css("ul li a")
+)
 
             data.append({"label": label, "title": title, "telephone": telephone,
-                         "address": address, "website": website, "is_represented": is_represented})
+                         "address": address, "website": website,
+                         "is_represented": is_represented, "consulates": consulates})
 
     data = process.correct_some_country_titles(data)
-    count = 0
-    for country in data:
-        if country["is_represented"] is False:
-            count += 1
-    print(count)
-            # print({"country": country["Label"], "title": country["title"]})
+
+    # for i, datum in enumerate(data):
+
     return None
-
-""" 
-where 'Embassy of Ireland' needs:
-Luxembourg,
-Malawi
-Namibia
-Zambia
-Philippiness,
-
-accronyms: UAE
-unmatched labels: Netherlands, The Netherlands; Russian Federation, Russia 
-Palestinian Authority
-176
-"""
-
-# def parse_accordions(html: list) -> list[dict]:
-#     # accordions = [accordion for accordion in html]
-#     data = []
-#     for accordion in html:
-#         label = accordion.attributes["id"]
-#         group_index = accordion.attributes["accordian"]  # the misspelling is in html
-#         content = accordion.css(f"#answer-{group_index}")
-#
-#         data.append({"label": label, "content": content})
-#
-#     return data
-
-
-# for accordion in accordions:
-#     content = accordion["content"]
-def parse_data(accordions: list[dict]):
-    for accordion in accordions:
-        data = accordion["content"]
-        address = ' '.join(data.css_first("address").text())
-        telephone = data.attributes["aria-label"].text() if data.attributes[
-            "aria-label"] == "Telephone" else None
-        data = {"address": address, "telephone": telephone}
-    return accordions
-
 
 def main():
     url = "https://www.ireland.ie/en/dfa/embassies/"

@@ -34,3 +34,8 @@ def website(content_node: Node) -> str:
     #     a_tag = p_node.css_first("a[href]")
     #     if a_tag is not None:
     #         return a_tag.attributes.get('href', 'None')
+
+
+def consulates(nodes: list[Node]):
+    return [node.text().replace("Consulate General of Ireland, ", "")
+            for node in nodes if "Consulate General of Ireland" in node.text()]
