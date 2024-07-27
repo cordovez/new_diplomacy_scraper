@@ -1,29 +1,30 @@
 import httpx
 from selectolax.parser import HTMLParser
-from rich import print
-from urllib.parse import urlencode
 from dotenv import load_dotenv
+from urllib.parse import urlencode
 import os
+from rich import print
 
 from services import extract
+from scrapers.scraper import get_html_tree_for
 from services.extract import presence_status
+#
+# load_dotenv()
+# API_KEY = os.getenv("API_KEY")
+#
+#
+# def get_proxy_url(url):
+#     payload = {"api_key": API_KEY, "url": url}
+#     return f"https://proxy.scrapeops.io/v1/?{urlencode(payload)}"
+#
+#
+# def get_html(client: httpx.Client, url: str) -> HTMLParser:
+#     response = client.get(url, timeout=None)
+#     response.raise_for_status()
+#     return HTMLParser(response.text)
 
-load_dotenv()
-API_KEY = os.getenv("API_KEY")
 
-
-def get_proxy_url(url):
-    payload = {"api_key": API_KEY, "url": url}
-    return f"https://proxy.scrapeops.io/v1/?{urlencode(payload)}"
-
-
-def get_html(client: httpx.Client, url: str) -> HTMLParser:
-    response = client.get(url, timeout=None)
-    response.raise_for_status()
-    return HTMLParser(response.text)
-
-
-def parse_landing_page(html_tree: HTMLParser):
+def parse_landing_page(html_tree: HTMLParser) -> list[dict]:
     data = []
     count = 0
     for accordion in html_tree.css(".accordion"):
@@ -63,45 +64,15 @@ def parse_landing_page(html_tree: HTMLParser):
         print("_________________________")
         print(datum)
 
-    return None
+    return data
 
-def main():
-    url = "https://www.ireland.ie/en/dfa/embassies/"
-    proxy_url = get_proxy_url(url)
 
-    with httpx.Client() as client:
-        client.headers.update({
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X "
-                          "10_15_7) AppleWebKit/537.36 (KHTML, "
-                          "like Gecko) Chrome/119.0.0.0 "
-                          "Safari/537.36"})
-        tree = get_html(client, proxy_url)
+def main() -> None:
+    main_page = "https://www.ireland.ie/en/dfa/embassies/"
+    html = get_html_tree_for(main_page)
+    data = parse_landing_page(html)
 
-    data = parse_landing_page(tree)
-    # accordions = parse_accordions(html)
-    # data = parse_data(accordions)
     print(data)
-
-    # results = []
-
-    # response = requests.get(
-    #     url='https://proxy.scrapeops.io/v1/',
-    #     params={
-    #         'api_key': '87ddbbdf-3f21-4adb-8027-d10b9881a704',
-    #         'url': 'https://www.ireland.ie/en/dfa/embassies/',
-    #         },
-    #     )
-    #
-
-
-# def parse_detail_page(html: HTMLParser) -> dict:
-#     element_list = html.css("script[type='application/ld+json']")
-#     for element in element_list:
-#         data = json.loads(element.text())
-#
-#         for item in data:
-#             if "offers" in item:
-#                 yield item["offers"]
 
 
 if __name__ == '__main__':

@@ -1,17 +1,20 @@
 import re
-
+import httpx
 from selectolax.parser import Node
+from scrapers.scraper import get_html_tree_for
+
 
 
 def telephone(content_node: Node) -> str:
     telephone_node = content_node.css_first('a[aria-label="Telephone"]')
-    tel = telephone_node.text() if telephone_node else "None"
-    return tel.replace("Tel:", "").strip()
+    tel = telephone_node.text(strip=True) if telephone_node else "None"
+    return tel.replace("Tel:", "")
 
 
 def address(content_node: Node) -> str:
-    found_address = content_node.css_first("address").text() if content_node.css_first(
-        "address") else "None"
+    found_address = content_node.css_first("address").text(strip=True) if (
+        content_node.css_first(
+        "address")) else "None"
     return re.sub(r'\s*\n\s*', '\n', found_address.strip())
 
 
@@ -29,6 +32,25 @@ def website(content_node: Node) -> str:
     return "No matching <a> tag found"
 
 
+def _extract_consul(url: str):
+    try:
+        if "https://www.ireland.ie" not in url:
+            url = f"https://www.ireland.ie{url}"
+
+        html = get_html_tree_for(url)
+
+        if diplomat := html.css_first("div.block-person h3").text(strip=True):
+            return diplomat
+
+        return "none found"
+
+    except httpx.HTTPStatusError as e:
+        print(f"HTTP error occurred: {e.response.status_code} for URL: {e.request.url}")
+        return "none found"
+    except FileNotFoundError as e:
+        print(f"An error occurred: {e}")
+        return "none found"
+
 def consulate_cities(node: Node):
     a_links = node.css("ul li a")
     data = []
@@ -36,9 +58,13 @@ def consulate_cities(node: Node):
               for link in a_links if "Consulate General of Ireland" in
               link.text()]
     for city in cities:
-        data.append({city: {"consulate_url": consulate_url(node, city)}})
+        url = consulate_url(node, city)
+        consul_general = _extract_consul(url)
+        data.append({"city": city, "consulate_url": url,
+                     "consul_general": consul_general})
 
     return data
+
 
 def consulate_url(node: Node, city: str) -> str:
     collapsed_city = city.lower().replace(" ", "")
