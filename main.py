@@ -1,12 +1,12 @@
 import httpx
-from selectolax.parser import HTMLParser, Node
+from selectolax.parser import HTMLParser
 from rich import print
 from urllib.parse import urlencode
 from dotenv import load_dotenv
 import os
 
 from services import extract
-from services import process
+from services.extract import presence_status
 
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
@@ -20,33 +20,48 @@ def get_proxy_url(url):
 def get_html(client: httpx.Client, url: str) -> HTMLParser:
     response = client.get(url, timeout=None)
     response.raise_for_status()
-    html = HTMLParser(response.text)
-    return html
+    return HTMLParser(response.text)
 
 
 def parse_landing_page(html_tree: HTMLParser):
     data = []
+    count = 0
     for accordion in html_tree.css(".accordion"):
-        label: str = accordion.attributes["id"]
+        count: count
+        div_id: str = accordion.attributes["id"]
+        accordion_title: str = accordion.css_first(
+            "span.embassy_accordion__title").text().strip()
         group_index: str = accordion.attributes["accordian"]  # the misspelling is in
         # html
-        content_node = accordion.css_first(f"#answer-{group_index}")
-        if content_node:
-            title = extract.title(content_node)
+
+        if content_node := accordion.css_first(f"#answer-{group_index}"):
+            first_h2: str = extract.h2(content_node)
+            first_h3: str = extract.h3(content_node)
+            hosts_emb: bool = extract.presence_status(content_node)
             address = extract.address(content_node)
             telephone = extract.telephone(content_node)
             website = extract.website(content_node)
-            is_represented = process.determine_if_represented(label, title)
-            consulates = extract.consulates(content_node.css("ul li a")
-)
+            consulates = extract.consulate_cities(content_node)
 
-            data.append({"label": label, "title": title, "telephone": telephone,
-                         "address": address, "website": website,
-                         "is_represented": is_represented, "consulates": consulates})
+            count = count + 1
+            data.append({"item_count": count,
+                         "group_index": group_index,
+                         "div_id": div_id,
+                         "accordion_title": accordion_title,
+                         "first_h3": first_h3,
+                         "first_h2": first_h2,
+                         "hosts_emb": hosts_emb,
+                         "telephone": telephone,
+                         "address": address,
+                         "website": website,
+                         "consulates": consulates
 
-    data = process.correct_some_country_titles(data)
+                         })
 
-    # for i, datum in enumerate(data):
+    # data = process.correct_some_country_titles(data)
+    for datum in data:
+        print("_________________________")
+        print(datum)
 
     return None
 

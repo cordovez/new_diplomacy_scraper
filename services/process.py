@@ -1,17 +1,17 @@
-def determine_if_represented(label: str, title: str) -> bool:
+def determine_if_represented(div_id: str, title: str) -> bool:
     """
     Corrects two mis-matched labels and titles, and returns True or False
     if item title and item labels are match.
     """
-    match label:
+    match div_id:
         case "Netherlands":
-            label = "The Netherlands"
+            div_id = "The Netherlands"
         case "Russian Federation":
-            label = "Russia"
+            div_id = "Russia"
         case _:
-            label = label
+            div_id = div_id
 
-    return title.replace("Embassy of Ireland, ", "") == label
+    return title.replace("Embassy of Ireland, ", "") == div_id
 
 
 def correct_some_country_titles(data: list[dict]) -> list[dict]:
@@ -20,13 +20,13 @@ def correct_some_country_titles(data: list[dict]) -> list[dict]:
     """
     missing_names = ["Luxembourg", "Malawi", "Namibia", "Zambia", "Philippines"]
     for item in data:
-        if item.get("label") in missing_names:
-            item["title"] = f"Embassy of Ireland, {item['label']}"
+        if item.get("div_id") in missing_names:
+            item["accordion_title"] = f"Embassy of Ireland, {item['div_id']}"
 
     for item in data:
-        if item.get("title") == "Embassy of Ireland, UAE":
-            item["title"] = f"Embassy of Ireland, United Arab Emirates"
+        if item.get("accordion_title") == "Embassy of Ireland, UAE":
+            item["accordion_title"] = f"Embassy of Ireland, United Arab Emirates"
 
-    for item in data:
-        item["is_represented"] = determine_if_represented(item["label"], item["title"])
+    # for item in data:
+    #     item["is_represented"] = determine_if_represented(item["div_id"], item["accordion_title"])
     return data

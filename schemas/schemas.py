@@ -7,9 +7,10 @@ class Country:
     hosts_irish_mission: bool
     iso3_code: str
 
+
 class Mission:
     contact: dict
-    website:str
+    website: str
     type_of: str
     title: str
     host_city: str
