@@ -3,6 +3,9 @@ import httpx
 from selectolax.parser import Node
 from scrapers.scraper import get_html_tree_for
 
+# -----------------------------------------------------
+# Direct call functions
+# -----------------------------------------------------
 
 
 def telephone(content_node: Node) -> str:
@@ -15,10 +18,10 @@ def address(content_node: Node) -> str:
     found_address = content_node.css_first("address").text(strip=True) if (
         content_node.css_first(
         "address")) else "None"
-    return re.sub(r'\s*\n\s*', '\n', found_address.strip())
+    return re.sub(r'\s*\n\s*', '\n ', found_address)
 
 
-def website(content_node: Node) -> str:
+def embassy_url(content_node: Node) -> str:
     """
     Not implemented yet
     """
@@ -29,54 +32,22 @@ def website(content_node: Node) -> str:
         if b_tag and b_tag.text(strip=True) == "Embassy Website":
             return a_tag.attributes.get("href", "No href found")
 
-    return "No matching <a> tag found"
+    return "none found"
 
 
-def _extract_consul(url: str):
-    try:
-        if "https://www.ireland.ie" not in url:
-            url = f"https://www.ireland.ie{url}"
-
-        html = get_html_tree_for(url)
-
-        if diplomat := html.css_first("div.block-person h3").text(strip=True):
-            return diplomat
-
-        return "none found"
-
-    except httpx.HTTPStatusError as e:
-        print(f"HTTP error occurred: {e.response.status_code} for URL: {e.request.url}")
-        return "none found"
-    except FileNotFoundError as e:
-        print(f"An error occurred: {e}")
-        return "none found"
-
-def consulate_cities(node: Node):
+def consulates(node: Node):
     a_links = node.css("ul li a")
     data = []
     cities = [link.text().replace("Consulate General of Ireland, ", "")
               for link in a_links if "Consulate General of Ireland" in
               link.text()]
     for city in cities:
-        url = consulate_url(node, city)
-        consul_general = _extract_consul(url)
+        url = _consulate_url(node, city)
+        consul_general = head_of_mission(url)
         data.append({"city": city, "consulate_url": url,
                      "consul_general": consul_general})
 
     return data
-
-
-def consulate_url(node: Node, city: str) -> str:
-    collapsed_city = city.lower().replace(" ", "")
-    city_node = node.css_first(f"div#{collapsed_city}")
-
-    all_a_tags = city_node.css("a")
-    for a_tag in all_a_tags:
-        b_tag = a_tag.css_first("b")
-        if b_tag and b_tag.text(strip=True) == "Consulate Website":
-            return a_tag.attributes.get("href", "No href found")
-
-    return "No matching <a> tag found"
 
 
 def presence_status(node: Node) -> bool:
@@ -99,5 +70,41 @@ def h3(node: Node) -> str:
                 node.css_first("h3")) else "none found"
 
 
+# -----------------------------------------------------
+# helper functions
+# -----------------------------------------------------
+
+def _consulate_url(node: Node, city: str) -> str:
+    collapsed_city = city.lower().replace(" ", "")
+    city_node = node.css_first(f"div#{collapsed_city}")
+
+    all_a_tags = city_node.css("a")
+    for a_tag in all_a_tags:
+        b_tag = a_tag.css_first("b")
+        if b_tag and b_tag.text(strip=True) == "Consulate Website":
+            return a_tag.attributes.get("href", "No href found")
+
+    return "none found"
 
 
+def head_of_mission(url: str):
+    if url == "none found":
+        return "none found"
+
+    try:
+        if not url.startswith("https://www.ireland.ie"):
+            url = f"https://www.ireland.ie{url}"
+
+        html = get_html_tree_for(url)
+
+        if diplomat := html.css_first("div.block-person h3"):
+            return diplomat.text(strip=True)
+
+        return "none found"
+
+    except httpx.HTTPStatusError as e:
+        print(f"HTTP error occurred: {e.response.status_code} for URL: {e.request.url}")
+        return "none found"
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return "none found"

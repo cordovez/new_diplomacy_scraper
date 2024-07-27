@@ -1,29 +1,12 @@
-import httpx
+import json
+import time
 from selectolax.parser import HTMLParser
-from dotenv import load_dotenv
-from urllib.parse import urlencode
-import os
 from rich import print
-
 from services import extract
 from scrapers.scraper import get_html_tree_for
-from services.extract import presence_status
-#
-# load_dotenv()
-# API_KEY = os.getenv("API_KEY")
-#
-#
-# def get_proxy_url(url):
-#     payload = {"api_key": API_KEY, "url": url}
-#     return f"https://proxy.scrapeops.io/v1/?{urlencode(payload)}"
-#
-#
-# def get_html(client: httpx.Client, url: str) -> HTMLParser:
-#     response = client.get(url, timeout=None)
-#     response.raise_for_status()
-#     return HTMLParser(response.text)
 
 
+# TODO: add passport office and consular assistance for countries where there is no emb.
 def parse_landing_page(html_tree: HTMLParser) -> list[dict]:
     data = []
     count = 0
@@ -41,8 +24,9 @@ def parse_landing_page(html_tree: HTMLParser) -> list[dict]:
             hosts_emb: bool = extract.presence_status(content_node)
             address = extract.address(content_node)
             telephone = extract.telephone(content_node)
-            website = extract.website(content_node)
-            consulates = extract.consulate_cities(content_node)
+            embassy_url = extract.embassy_url(content_node)
+            consulates = extract.consulates(content_node)
+            head_of_mission = extract.head_of_mission(embassy_url)
 
             count = count + 1
             data.append({"item_count": count,
@@ -54,26 +38,28 @@ def parse_landing_page(html_tree: HTMLParser) -> list[dict]:
                          "hosts_emb": hosts_emb,
                          "telephone": telephone,
                          "address": address,
-                         "website": website,
-                         "consulates": consulates
-
+                         "embassy_url": embassy_url,
+                         "consulates": consulates,
+                         "head_of_mission": head_of_mission
                          })
-
-    # data = process.correct_some_country_titles(data)
-    for datum in data:
-        print("_________________________")
-        print(datum)
-
+    print(f"processing accordion {count}")
     return data
+
+
+def save_to_json(data: list[dict]) -> None:
+    with open("data/scrape_results.json", "w") as file:
+        json.dump(data, file, indent=4)
 
 
 def main() -> None:
     main_page = "https://www.ireland.ie/en/dfa/embassies/"
     html = get_html_tree_for(main_page)
     data = parse_landing_page(html)
-
-    print(data)
+    save_to_json(data)
 
 
 if __name__ == '__main__':
+    start_time = time.time()
     main()
+    end_time = time.time()
+    print(f"Execution time: {end_time - start_time:2f} seconds")
