@@ -1,7 +1,7 @@
 import re
 import httpx
-from selectolax.parser import Node
-from scrapers.scraper import get_html_tree_for
+from selectolax.parser import Node, HTMLParser
+from scrapers import scrape
 
 # -----------------------------------------------------
 # Direct call functions
@@ -16,8 +16,7 @@ def telephone(content_node: Node) -> str:
 
 def address(content_node: Node) -> str:
     found_address = content_node.css_first("address").text(strip=True) if (
-        content_node.css_first(
-        "address")) else "None"
+        content_node.css_first("address")) else "None"
     return re.sub(r'\s*\n\s*', '\n ', found_address)
 
 
@@ -56,7 +55,7 @@ def presence_status(node: Node) -> bool:
             response = first_paragraph.text(strip=True)
             return "We do not have an Embassy in this country" in response
         else:
-            return "none found"
+            return False
 
 
 def h2(node: Node) -> str:
@@ -95,7 +94,7 @@ def head_of_mission(url: str):
         if not url.startswith("https://www.ireland.ie"):
             url = f"https://www.ireland.ie{url}"
 
-        html = get_html_tree_for(url)
+        html = scrape.scrape_html_tree_for(url)
 
         if diplomat := html.css_first("div.block-person h3"):
             return diplomat.text(strip=True)
@@ -108,3 +107,5 @@ def head_of_mission(url: str):
     except Exception as e:
         print(f"An error occurred: {e}")
         return "none found"
+
+
