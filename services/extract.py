@@ -15,9 +15,9 @@ def telephone(content_node: Node) -> str:
 
 
 def address(content_node: Node) -> str:
-    found_address = content_node.css_first("address").text(strip=True) if (
-        content_node.css_first("address")) else "None"
-    return re.sub(r'\s*\n\s*', '\n ', found_address)
+    found_address = content_node.css_first("address").text() if (
+        content_node.css_first("address")) else "none found"
+    return found_address
 
 
 def embassy_url(content_node: Node) -> str:
@@ -62,8 +62,6 @@ def h2(node: Node) -> str:
     return node.css_first("h2").text() if node.css_first("h2") else "none found"
 
 
-# TODO: change 'Embassy of Ireland, Washington' to 'Embassy of Ireland, United States
-#  ... for all items'
 def h3(node: Node) -> str:
     return node.css_first("h3").text() if (
                 node.css_first("h3")) else "none found"

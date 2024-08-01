@@ -1,9 +1,12 @@
 import json
 
 
+# ------------------------------------------------------------------------------
+# Read files
+# ------------------------------------------------------------------------------
+
 def _get_dublin_missions():
     missions = []
-
     with open("data/foreign_missions_in_dublin.csv", "r") as file:
         for line in file:
             if country := line.strip().lower():
@@ -14,7 +17,6 @@ def _get_dublin_missions():
 
 def _get_london_missions():
     missions = []
-
     with open("data/foreign_missions_in_london.csv", "r") as file:
         for line in file:
             if country := line.strip().lower():
@@ -35,8 +37,7 @@ def _get_accredited_countries():
             if country := line.strip().lower():
                 countries.append(country)
 
-    only_countries = [country for country in countries if country not in exceptions]
-    return only_countries
+    return [country for country in countries if country not in exceptions]
 
 
 def get_countries_scraped_as_list() -> list[str]:
@@ -54,7 +55,32 @@ def get_countries_scraped_as_list() -> list[str]:
     return [item["accordion_title"] for item in objects]
 
 
+def _get_cc():
+    with open("data/country_codes_iso.json", "r") as file:
+        return json.load(file)
+
+
+def _get_countries_from_country_codes():
+    with open("data/country_codes_iso.json", "r") as file:
+        data = json.load(file)
+    cc_countries = [item["name"] for item in data]
+    scraped_countries = get_countries_scraped_as_list()
+
+    unmatched = []
+    for country in scraped_countries:
+        for cc in cc_countries:
+            if country.lower() in cc.lower():
+                unmatched.append(cc)
+    return unmatched
+
+# ------------------------------------------------------------------------------
+# Switch case countries with differing names
+# ------------------------------------------------------------------------------
+
+
 def correct_accredited_countries() -> list[str]:
+    """ Returns a normalised list of countries that have accredited missions
+    """
     corrected_countries = []
     for country in accredited_countries:
         match country.lower():
@@ -103,7 +129,9 @@ def correct_accredited_countries() -> list[str]:
 
     return corrected_countries
 
+
 def correct_dublin_missions() -> list[str]:
+    """Returns a normalised list of countries that have an embassy in Dublin"""
     dublin_missions = []
     for mission in missions_in_dublin:
         match mission.lower():
@@ -127,7 +155,9 @@ def correct_dublin_missions() -> list[str]:
                 dublin_missions.append(mission)
     return dublin_missions
 
+
 def correct_london_missions() -> list[str]:
+    """Returns a normalised list of countries that have an embassy in London """
     london_missions = []
     for mission in missions_in_london:
         match mission.lower():
@@ -154,24 +184,9 @@ def correct_london_missions() -> list[str]:
     return london_missions
 
 
-def _get_cc():
-    with open("data/country_codes_iso.json", "r") as file:
-        return json.load(file)
-
-def _get_countries_from_country_codes():
-    with open("data/country_codes_iso.json", "r") as file:
-        data = json.load(file)
-    cc_countries = [item["name"] for item in data]
-    scraped_countries = get_countries_scraped_as_list()
-
-    unmatched = []
-    for country in scraped_countries:
-        for cc in cc_countries:
-            if country.lower() in cc.lower():
-                unmatched.append(cc)
-    return unmatched
-
-def correct_cc_countries():
+def correct_cc_countries() -> list[dict]:
+    """ Returns a normalised list of dictionaries containing countries and their country
+    codes. """
     cc_countries = _get_cc()
     
     for country in cc_countries:
@@ -208,6 +223,9 @@ def correct_cc_countries():
                 country["name"] = country["name"]
     return cc_countries
 
+# ------------------------------------------------------------------------------
+# use for printing lists and determining mismatched country names
+# ------------------------------------------------------------------------------
 
 country_codes_countries = _get_countries_from_country_codes()
 corrected_cc_countries = correct_cc_countries()
@@ -220,8 +238,8 @@ scraped_countries = get_countries_scraped_as_list()
 correct_names = correct_accredited_countries()
 
 
-
 def difference_from_two_lists() -> list[str]:
+    """ Returns a list of countries that are not present in two lists. """
     lower_a = [x.lower() for x in corrected_cc_countries]
     # lower_a = [x.lower() for x in corrected_london_missions]
     # lower_a = [x.lower() for x in corrected_dublin_missions]
