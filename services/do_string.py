@@ -15,10 +15,18 @@ def name_splitting_from(fullname: str) -> DiplomatName:
 
 
 def country_extraction_from(url_path: str) -> str:
+    """
+    Extracts the country name from a URL path.
+
+    Args:
+        url_path: The URL path from which to extract the country name.
+
+    Returns:
+        A string representing the extracted country name or "Invalid URL path" if the path is invalid.
+    """
     parts = url_path.strip('/').split('/')
 
-    # Check if the URL path has at least 3 parts
-    if len(parts) >= 2:
-        return parts[1]  # The country name is the second part
-    else:
-        return "Invalid URL path"
+    return "Invalid URL path" if len(parts) < 2 else parts[1]
+
+
+

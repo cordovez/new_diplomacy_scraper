@@ -1,8 +1,6 @@
 import beanie
 from typing import Literal, Optional
-# from mongodb.contact import ContactDetails
 from beanie import UnionDoc
-# from mongodb.diplomat import DiplomatDocument
 import pydantic
 import pymongo
 
@@ -26,6 +24,7 @@ class MissionUnion(UnionDoc):
 
 
 class Diplomat(beanie.Document):
+    full_name: str
     first_name: str
     last_name: str
     mission_title: str
@@ -34,9 +33,6 @@ class Diplomat(beanie.Document):
     class Settings:
         name = "diplomats"
         indexes = [
-            pymongo.IndexModel(
-                keys=[("last_name", pymongo.ASCENDING)], name="last_name_ascend"
-                ),
             pymongo.IndexModel(
                 keys=[("last_name", pymongo.ASCENDING)],
                 name="diplomat_last_ascend",
@@ -71,8 +67,9 @@ class Country(beanie.Document):
     country_name: str
     accredited_to_ireland: Optional[bool] | None = None
     with_mission_in: Optional[Literal["dublin", "london"]] | None = None
-    hosts_irish_mission: Optional[bool] | None = None
+    hosts_irish_mission: bool
     iso3_code: Optional[str] | None = None
+    is_covered_by: Optional[str] | None = None
 
     class Settings:
         name = "countries"

@@ -6,6 +6,15 @@ from selectolax.parser import HTMLParser
 # parsers
 # -------------------------------------------------
 def landing_page(html_tree: HTMLParser) -> list[dict]:
+    """
+    Parses the landing page HTML tree to extract information about embassies and consulates.
+
+    Args:
+        html_tree: The HTMLParser object representing the landing page HTML tree.
+
+    Returns:
+        A list of dictionaries containing extracted information about embassies and consulates.
+    """
     data = []
     count = 0
     for accordion in html_tree.css(".accordion"):

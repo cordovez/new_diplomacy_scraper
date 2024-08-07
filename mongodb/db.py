@@ -16,7 +16,7 @@ MONGO_URI = os.getenv("MONGO_URI")
 async def init_db():
     client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_URI)
     await beanie.init_beanie(
-        database=client["TEST"],
+        database=client["DFA"],
         document_models=[Country, Diplomat, Representation, MissionUnion, Embassy,
                          Consulate]
         )

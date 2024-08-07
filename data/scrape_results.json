@@ -8,7 +8,7 @@
         "first_h2": "Diplomatic and consular information for United Arab Emirates",
         "hosts_emb": true,
         "telephone": " +971 2 4958200",
-        "address": "Atiq Bin Majid Al Muhairi StreetAl Bateen, P.O. Box 61581Abu DhabiUnited Arab Emirates",
+        "address": "\n                    \n                        Atiq Bin Majid Al Muhairi Street \n                    \n                    \n                        Al Bateen, P.O. Box 61581 \n                    \n                    \n                        Abu Dhabi \n                    \n                    \n                    \n                        United Arab Emirates \n                    \n                ",
         "embassy_url": "/en/uae/abudhabi/",
         "consulates": [],
         "head_of_mission": "Alison Milton"
@@ -22,7 +22,7 @@
         "first_h2": "Diplomatic and consular information for Greece",
         "hosts_emb": true,
         "telephone": " +30 210 723 2771",
-        "address": "7 Leoforos Vasileos Konstantinou106 74AthensGreece",
+        "address": "\n                    \n                        7 Leoforos Vasileos Konstantinou \n                    \n                    \n                        106 74 \n                    \n                    \n                        Athens \n                    \n                    \n                    \n                        Greece \n                    \n                ",
         "embassy_url": "/en/greece/athens/",
         "consulates": [],
         "head_of_mission": "Iseult Fitzgerald"
@@ -36,7 +36,7 @@
         "first_h2": "Diplomatic and consular information for Switzerland",
         "hosts_emb": true,
         "telephone": " +41 31 350 03 80",
-        "address": "2nd floor Kirchenfeldstrasse 68P.O. Box 262CH-3000 Berne 6Switzerland",
+        "address": "\n                    \n                        2nd floor Kirchenfeldstrasse 68 \n                    \n                    \n                        P.O. Box 262 \n                    \n                    \n                        CH-3000 Berne 6 \n                    \n                    \n                    \n                        Switzerland \n                    \n                ",
         "embassy_url": "/en/switzerland/berne/",
         "consulates": [],
         "head_of_mission": "Aoife McGarry"
@@ -50,7 +50,7 @@
         "first_h2": "Diplomatic and consular information for Spain",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "Paseo de la Castellana 46-428046Madrid.Spain",
+        "address": "\n                    \n                        Paseo de la Castellana 46-4 \n                    \n                    \n                        28046 \n                    \n                    \n                        Madrid. \n                    \n                    \n                    \n                        Spain \n                    \n                ",
         "embassy_url": "/en/spain/madrid/",
         "consulates": [],
         "head_of_mission": "Frank Smyth"
@@ -64,7 +64,7 @@
         "first_h2": "Diplomatic and consular information for Portugal",
         "hosts_emb": true,
         "telephone": " +351 213308200",
-        "address": "Avenida da Liberdade,Nr. 200, 4th floor,Lisbon1250-147",
+        "address": "\n                    \n                        Avenida da Liberdade, \n                    \n                    \n                        Nr. 200, 4th floor, \n                    \n                    \n                        Lisbon \n                    \n                    \n                    \n                        1250-147 \n                    \n                ",
         "embassy_url": "/en/portugal/lisbon/",
         "consulates": [],
         "head_of_mission": "Alma N\u00ed Choigligh"
@@ -78,7 +78,7 @@
         "first_h2": "Diplomatic and consular information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -92,7 +92,7 @@
         "first_h2": "Diplomatic and consular information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -106,7 +106,7 @@
         "first_h2": "Diplomatic and consular information for Argentina",
         "hosts_emb": null,
         "telephone": " +54 (11) 4808-5700",
-        "address": "Edificio Bluesky6th FloorAvenida del Libertador 1068RecoletaBuenos Aires",
+        "address": "\n                    \n                        Edificio Bluesky \n                    \n                    \n                        6th Floor \n                    \n                    \n                        Avenida del Libertador 1068 \n                    \n                    \n                        Recoleta \n                    \n                    \n                        Buenos Aires \n                    \n                ",
         "embassy_url": "/en/argentina/buenosaires/",
         "consulates": [],
         "head_of_mission": "Gerard McCoy"
@@ -120,7 +120,7 @@
         "first_h2": "Diplomatic and consular information for Bulgaria",
         "hosts_emb": true,
         "telephone": " +359 2 985 3425",
-        "address": "Platinum Business Centre26-30 Bacho Kiro street, Sofia 1000,Bulgaria",
+        "address": "\n                    \n                        Platinum Business Centre \n                    \n                    \n                        26-30 Bacho Kiro street, Sofia 1000, \n                    \n                    \n                        Bulgaria \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/bulgaria/sofia/",
         "consulates": [],
         "head_of_mission": "Martina Feeney"
@@ -134,7 +134,7 @@
         "first_h2": "Diplomatic and consular information for The Netherlands",
         "hosts_emb": true,
         "telephone": " +31 (0)70 363 0993",
-        "address": "Scheveningseweg 1122584 AE The HagueThe Netherlands",
+        "address": "\n                    \n                        Scheveningseweg 112 \n                    \n                    \n                        2584 AE The Hague \n                    \n                    \n                        The Netherlands \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/thenetherlands/thehague/",
         "consulates": [],
         "head_of_mission": "Brendan Rogers"
@@ -148,7 +148,7 @@
         "first_h2": "Diplomatic and consular information for Australia",
         "hosts_emb": false,
         "telephone": " +61 2 62140000",
-        "address": "20 Arkana StreetYarralumlaACT 2600Canberra",
+        "address": "\n                    \n                        20 Arkana Street \n                    \n                    \n                        Yarralumla \n                    \n                    \n                        ACT 2600 \n                    \n                    \n                    \n                        Canberra \n                    \n                ",
         "embassy_url": "/en/australia/canberra/",
         "consulates": [
             {
@@ -168,7 +168,7 @@
         "first_h2": "Diplomatic and consular information for Austria",
         "hosts_emb": null,
         "telephone": " +43 (0)1 715 4246",
-        "address": "Rotenturmstra\u00dfe 16-18A-1010 ViennaAustria",
+        "address": "\n                    \n                        Rotenturmstra\u00dfe 16-18 \n                    \n                    \n                        A-1010 Vienna \n                    \n                    \n                        Austria \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/austria/vienna/",
         "consulates": [],
         "head_of_mission": "Eoin O'Leary"
@@ -182,7 +182,7 @@
         "first_h2": "Diplomatic and consular information for T\u00fcrkiye",
         "hosts_emb": true,
         "telephone": " +90 312 459 1000",
-        "address": "Ugur Mumcu Caddesi No.88MNG Binasi, A&B Blok, Kat 1GaziosmanpasaAnkara 06700",
+        "address": "\n                    \n                        Ugur Mumcu Caddesi No.88 \n                    \n                    \n                        MNG Binasi, A&B Blok, Kat 1 \n                    \n                    \n                        Gaziosmanpasa \n                    \n                    \n                    \n                        Ankara 06700 \n                    \n                ",
         "embassy_url": "/en/turkiye/ankara/",
         "consulates": [],
         "head_of_mission": "John McCullagh"
@@ -196,7 +196,7 @@
         "first_h2": "Diplomatic and Consular Information for Canada",
         "hosts_emb": true,
         "telephone": " +1 613 233 6281",
-        "address": "150 Metcalfe Street,Suite 1700,OttawaON K2P 1P1",
+        "address": "\n                    \n                        150 Metcalfe Street, \n                    \n                    \n                        Suite 1700, \n                    \n                    \n                        Ottawa \n                    \n                    \n                    \n                        ON K2P 1P1 \n                    \n                ",
         "embassy_url": "/en/canada/ottawa/",
         "consulates": [],
         "head_of_mission": "Eamonn McKee"
@@ -210,7 +210,7 @@
         "first_h2": "Diplomatic and consular information for Saudi Arabia",
         "hosts_emb": true,
         "telephone": " +966 11 407 1530",
-        "address": "P.O. Box 94349,Plot No. 3114, Al Idrisi,Assafarat District, Riyadh 12513,Kingdom of Saudi Arabia",
+        "address": "\n                    \n                        P.O. Box 94349, \n                    \n                    \n                        Plot No. 3114, Al Idrisi, \n                    \n                    \n                        Assafarat District, Riyadh 12513, \n                    \n                    \n                        Kingdom of Saudi Arabia \n                    \n                    \n                ",
         "embassy_url": "/en/saudiarabia/riyadh/",
         "consulates": [],
         "head_of_mission": "Gerry Cunningham"
@@ -224,7 +224,7 @@
         "first_h2": "Diplomatic and consular information for India",
         "hosts_emb": true,
         "telephone": " +91 11 4940 3200",
-        "address": "C17 Malcha MargChanakyapuriNew Delhi 110 021India",
+        "address": "\n                    \n                        C17 Malcha Marg \n                    \n                    \n                        Chanakyapuri \n                    \n                    \n                        New Delhi 110 021 \n                    \n                    \n                    \n                        India \n                    \n                ",
         "embassy_url": "/en/india/newdelhi/",
         "consulates": [],
         "head_of_mission": "Kevin Kelly"
@@ -238,7 +238,7 @@
         "first_h2": "none found",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -252,7 +252,7 @@
         "first_h2": "Diplomatic and consular information for Lithuania",
         "hosts_emb": true,
         "telephone": " +370 5 2629460",
-        "address": "Gedimino Prospektas 1Vilnius, LT-01103Lithuania",
+        "address": "\n                    \n                        Gedimino Prospektas 1 \n                    \n                    \n                        Vilnius, LT-01103 \n                    \n                    \n                        Lithuania \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/lithuania/vilnius/",
         "consulates": [],
         "head_of_mission": "S\u00e9adhna MacHugh"
@@ -266,7 +266,7 @@
         "first_h2": "Diplomatic and consular information for Belgium",
         "hosts_emb": false,
         "telephone": " +32 2 2823 400",
-        "address": "Rue Froissart - Froissartstraat 501040 BrusselsBelgium",
+        "address": "\n                    \n                        Rue Froissart - Froissartstraat 50 \n                    \n                    \n                        1040 Brussels \n                    \n                    \n                        Belgium \n                    \n                    \n                    \n                ",
         "embassy_url": "https://www.ireland.ie/en/belgium/",
         "consulates": [],
         "head_of_mission": "none found"
@@ -280,7 +280,7 @@
         "first_h2": "Diplomatic and consular information for Mexico",
         "hosts_emb": true,
         "telephone": " +52 55 5520 5803",
-        "address": "Goldsmith #53 Piso 4, Col. PolancoChapultepec, Alcald\u00eda Miguel Hidalgo, CP11560, Ciudad de M\u00e9xicoM\u00e9xico",
+        "address": "\n                    \n                        Goldsmith #53 Piso 4, Col. Polanco \n                    \n                    \n                        Chapultepec, Alcald\u00eda Miguel Hidalgo, CP \n                    \n                    \n                        11560, Ciudad de M\u00e9xico \n                    \n                    \n                        M\u00e9xico \n                    \n                    \n                ",
         "embassy_url": "/en/mexico/mexicocity/",
         "consulates": [],
         "head_of_mission": "Maeve von Heynitz"
@@ -294,7 +294,7 @@
         "first_h2": "Diplomatic and consular information for Nigeria",
         "hosts_emb": true,
         "telephone": " +234 209 462 1080",
-        "address": "11 Negro CrescentMaitama DistrictAbujaNigeria",
+        "address": "\n                    \n                        11 Negro Crescent \n                    \n                    \n                        Maitama District \n                    \n                    \n                        Abuja \n                    \n                    \n                        Nigeria \n                    \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
         "head_of_mission": "Peter Ryan"
@@ -308,7 +308,7 @@
         "first_h2": "Diplomatic and consular information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -322,7 +322,7 @@
         "first_h2": "Diplomatic and consular information for Bhutan",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -336,7 +336,7 @@
         "first_h2": "Diplomatic and consular information for Argentina",
         "hosts_emb": true,
         "telephone": " +54 (11) 4808-5700",
-        "address": "Edificio Bluesky6th FloorAvenida del Libertador 1068RecoletaBuenos Aires",
+        "address": "\n                    \n                        Edificio Bluesky \n                    \n                    \n                        6th Floor \n                    \n                    \n                        Avenida del Libertador 1068 \n                    \n                    \n                        Recoleta \n                    \n                    \n                        Buenos Aires \n                    \n                ",
         "embassy_url": "/en/argentina/buenosaires/",
         "consulates": [],
         "head_of_mission": "Gerard McCoy"
@@ -350,7 +350,7 @@
         "first_h2": "Diplomatic and consular information for Slovenia",
         "hosts_emb": true,
         "telephone": " +386 1 300 8970",
-        "address": "Pala\u010da Kapitelj, 1st floor,Poljanski nasip 61000 LjubljanaSlovenia",
+        "address": "\n                    \n                        Pala\u010da Kapitelj, 1st floor, \n                    \n                    \n                        Poljanski nasip 6 \n                    \n                    \n                        1000 Ljubljana \n                    \n                    \n                    \n                        Slovenia \n                    \n                ",
         "embassy_url": "/en/slovenia/ljubljana/",
         "consulates": [],
         "head_of_mission": "Adrian Farrell"
@@ -364,7 +364,7 @@
         "first_h2": "Diplomatic and consular information for South Africa",
         "hosts_emb": true,
         "telephone": " +27 12 452 1000",
-        "address": "2nd Floor, Building A, OMK House,238 Florence Ribeiro Avenue, Nieuw Muckleneuk,Pretoria,South Africa0181",
+        "address": "\n                    \n                        2nd Floor, Building A, OMK House, \n                    \n                    \n                        238 Florence Ribeiro Avenue, Nieuw Muckleneuk, \n                    \n                    \n                        Pretoria, \n                    \n                    \n                        South Africa \n                    \n                    \n                        0181 \n                    \n                ",
         "embassy_url": "/en/southafrica/pretoria/",
         "consulates": [],
         "head_of_mission": "Austin Gormley"
@@ -378,7 +378,7 @@
         "first_h2": "none found",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -392,7 +392,7 @@
         "first_h2": "Diplomatic and consular information for Brazil",
         "hosts_emb": null,
         "telephone": " +55 61 3248 8800",
-        "address": "SHIS QL 12 conjunto 05 casa 09Lago SulBras\u00edlia - DFCEP 71630-255Brazil",
+        "address": "\n                    \n                        SHIS QL 12 conjunto 05 casa 09 \n                    \n                    \n                        Lago Sul \n                    \n                    \n                        Bras\u00edlia - DF \n                    \n                    \n                        CEP 71630-255 \n                    \n                    \n                        Brazil \n                    \n                ",
         "embassy_url": "/en/brazil/brasilia/",
         "consulates": [],
         "head_of_mission": "Fiona Flood"
@@ -406,7 +406,7 @@
         "first_h2": "Diplomatic and Consular Information for India",
         "hosts_emb": true,
         "telephone": " +91 11 4940 3200",
-        "address": "C17 Malcha MargChanakyapuriNew Delhi 110 021India",
+        "address": "\n                    \n                        C17 Malcha Marg \n                    \n                    \n                        Chanakyapuri \n                    \n                    \n                        New Delhi 110 021 \n                    \n                    \n                    \n                        India \n                    \n                ",
         "embassy_url": "/en/india/newdelhi/",
         "consulates": [],
         "head_of_mission": "Kevin Kelly"
@@ -420,7 +420,7 @@
         "first_h2": "Diplomatic and Consular Information for Singapore",
         "hosts_emb": true,
         "telephone": " +65 6238 7616",
-        "address": "18 Cross Street#13-04Singapore 048423",
+        "address": "\n                    \n                        18 Cross Street \n                    \n                    \n                        #13-04 \n                    \n                    \n                    \n                    \n                        Singapore 048423 \n                    \n                ",
         "embassy_url": "/en/singapore/embassy/",
         "consulates": [],
         "head_of_mission": "Sarah McGrath"
@@ -434,7 +434,7 @@
         "first_h2": "Diplomatic and Consular Information for Bulgaria",
         "hosts_emb": null,
         "telephone": " +359 2 985 3425",
-        "address": "Platinum Business Centre26-30 Bacho Kiro street, Sofia 1000,Bulgaria",
+        "address": "\n                    \n                        Platinum Business Centre \n                    \n                    \n                        26-30 Bacho Kiro street, Sofia 1000, \n                    \n                    \n                        Bulgaria \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/bulgaria/sofia/",
         "consulates": [],
         "head_of_mission": "Martina Feeney"
@@ -448,7 +448,7 @@
         "first_h2": "Diplomatic and Consular Information for Nigeria",
         "hosts_emb": true,
         "telephone": " +234 209 462 1080",
-        "address": "11 Negro CrescentMaitama DistrictAbujaNigeria",
+        "address": "\n                    \n                        11 Negro Crescent \n                    \n                    \n                        Maitama District \n                    \n                    \n                        Abuja \n                    \n                    \n                        Nigeria \n                    \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
         "head_of_mission": "Peter Ryan"
@@ -462,7 +462,7 @@
         "first_h2": "Diplomatic and Consular Information for Tanzania",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "353 Tour\u00e9 Drive, MasakiDar es SalaamTanzania",
+        "address": "\n                    \n                        353 Tour\u00e9 Drive, Masaki \n                    \n                    \n                        Dar es Salaam \n                    \n                    \n                        Tanzania \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/tanzania/daressalaam/",
         "consulates": [],
         "head_of_mission": "Mary O'Neill"
@@ -476,7 +476,7 @@
         "first_h2": "Diplomatic and Consular Information for Vietnam",
         "hosts_emb": true,
         "telephone": " +84 24 3974 3291",
-        "address": "2nd floor,41A Ly Thai ToHoan Kiem District, HanoiVietnam",
+        "address": "\n                    \n                        2nd floor, \n                    \n                    \n                        41A Ly Thai To \n                    \n                    \n                        Hoan Kiem District, Hanoi \n                    \n                    \n                    \n                        Vietnam \n                    \n                ",
         "embassy_url": "/en/vietnam/hanoi/",
         "consulates": [],
         "head_of_mission": "none found"
@@ -490,7 +490,7 @@
         "first_h2": "Diplomatic and Consular Information for Nigeria",
         "hosts_emb": true,
         "telephone": " +234 209 462 1080",
-        "address": "11 Negro CrescentMaitama DistrictAbujaNigeria",
+        "address": "\n                    \n                        11 Negro Crescent \n                    \n                    \n                        Maitama District \n                    \n                    \n                        Abuja \n                    \n                    \n                        Nigeria \n                    \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
         "head_of_mission": "Peter Ryan"
@@ -504,7 +504,7 @@
         "first_h2": "Diplomatic and Consular Information for Canada",
         "hosts_emb": false,
         "telephone": " +1 613 233 6281",
-        "address": "150 Metcalfe Street,Suite 1700,OttawaON K2P 1P1",
+        "address": "\n                    \n                        150 Metcalfe Street, \n                    \n                    \n                        Suite 1700, \n                    \n                    \n                        Ottawa \n                    \n                    \n                    \n                        ON K2P 1P1 \n                    \n                ",
         "embassy_url": "/en/canada/ottawa/",
         "consulates": [
             {
@@ -529,7 +529,7 @@
         "first_h2": "Diplomatic and Consular Information for Portugal",
         "hosts_emb": true,
         "telephone": " +351 213308200",
-        "address": "Avenida da Liberdade,Nr. 200, 4th floor,Lisbon1250-147",
+        "address": "\n                    \n                        Avenida da Liberdade, \n                    \n                    \n                        Nr. 200, 4th floor, \n                    \n                    \n                        Lisbon \n                    \n                    \n                    \n                        1250-147 \n                    \n                ",
         "embassy_url": "/en/portugal/lisbon/",
         "consulates": [],
         "head_of_mission": "Alma N\u00ed Choigligh"
@@ -543,7 +543,7 @@
         "first_h2": "Diplomatic and Consular Information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -557,7 +557,7 @@
         "first_h2": "Diplomatic and Consular Information for Central African Republic",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -571,7 +571,7 @@
         "first_h2": "Diplomatic and Consular Information for Chad",
         "hosts_emb": true,
         "telephone": " +1 (212)421-6934",
-        "address": "885 Second Avenue21st Floor(between 47th & 48th st.)NY 10017USA",
+        "address": "\n                    \n                        885 Second Avenue \n                    \n                    \n                        21st Floor \n                    \n                    \n                        (between 47th & 48th st.) \n                    \n                    \n                        NY 10017 \n                    \n                    \n                        USA \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -585,7 +585,7 @@
         "first_h2": "Diplomatic and Consular Information for Chile",
         "hosts_emb": null,
         "telephone": " +56 233 04 6600",
-        "address": "Avenida Apoquindo 2929Piso 18Las Condes",
+        "address": "\n                    \n                        Avenida Apoquindo 2929 \n                    \n                    \n                        Piso 18 \n                    \n                    \n                        Las Condes \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/chile/santiago/",
         "consulates": [],
         "head_of_mission": "Colum Hatchell"
@@ -599,7 +599,7 @@
         "first_h2": "Diplomatic and Consular Information for China",
         "hosts_emb": false,
         "telephone": " +86 10 8531 6200",
-        "address": "3 Ritan Dong LuChaoyang DistrictBeijing 100600People's Republic of China",
+        "address": "\n                    \n                        3 Ritan Dong Lu \n                    \n                    \n                        Chaoyang District \n                    \n                    \n                        Beijing 100600 \n                    \n                    \n                        People's Republic of China \n                    \n                    \n                ",
         "embassy_url": "/en/china/beijing/",
         "consulates": [
             {
@@ -624,7 +624,7 @@
         "first_h2": "Diplomatic and Consular Information for Christmas Island",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -638,7 +638,7 @@
         "first_h2": "Diplomatic and Consular Information for Cocos (Keeling) Islands",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -652,7 +652,7 @@
         "first_h2": "Diplomatic and Consular Information for Colombia",
         "hosts_emb": null,
         "telephone": " +57 601 657 6060",
-        "address": "Oficina 1605Edificio Tierra FirmeBogot\u00e1 DCColombiaAk 9 #115-30",
+        "address": "\n                    \n                        Oficina 1605 \n                    \n                    \n                        Edificio Tierra Firme \n                    \n                    \n                        Bogot\u00e1 DC \n                    \n                    \n                        Colombia \n                    \n                    \n                        Ak 9 #115-30 \n                    \n                ",
         "embassy_url": "/en/colombia/bogota/",
         "consulates": [],
         "head_of_mission": "Fiona Nic Dhonnacha"
@@ -666,7 +666,7 @@
         "first_h2": "Diplomatic and Consular Information for Comoros",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -680,7 +680,7 @@
         "first_h2": "Diplomatic and Consular Information for Congo",
         "hosts_emb": true,
         "telephone": " +1 (212)421-6934",
-        "address": "885 Second Avenue21st Floor(between 47th & 48th st.)NY 10017USA",
+        "address": "\n                    \n                        885 Second Avenue \n                    \n                    \n                        21st Floor \n                    \n                    \n                        (between 47th & 48th st.) \n                    \n                    \n                        NY 10017 \n                    \n                    \n                        USA \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -694,7 +694,7 @@
         "first_h2": "Diplomatic and Consular Information for Tanzania",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "353 Tour\u00e9 Drive, MasakiDar es SalaamTanzania",
+        "address": "\n                    \n                        353 Tour\u00e9 Drive, Masaki \n                    \n                    \n                        Dar es Salaam \n                    \n                    \n                        Tanzania \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/tanzania/daressalaam/",
         "consulates": [],
         "head_of_mission": "Mary O'Neill"
@@ -708,7 +708,7 @@
         "first_h2": "Diplomatic and Consular Information for Cook Islands",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -722,7 +722,7 @@
         "first_h2": "Diplomatic and Consular Information for Mexico",
         "hosts_emb": true,
         "telephone": " +52 55 5520 5803",
-        "address": "Goldsmith #53 Piso 4, Col. PolancoChapultepec, Alcald\u00eda Miguel Hidalgo, CP11560, Ciudad de M\u00e9xicoM\u00e9xico",
+        "address": "\n                    \n                        Goldsmith #53 Piso 4, Col. Polanco \n                    \n                    \n                        Chapultepec, Alcald\u00eda Miguel Hidalgo, CP \n                    \n                    \n                        11560, Ciudad de M\u00e9xico \n                    \n                    \n                        M\u00e9xico \n                    \n                    \n                ",
         "embassy_url": "/en/mexico/mexicocity/",
         "consulates": [],
         "head_of_mission": "Maeve von Heynitz"
@@ -736,7 +736,7 @@
         "first_h2": "Diplomatic and Consular Information for Nigeria",
         "hosts_emb": true,
         "telephone": " +234 209 462 1080",
-        "address": "11 Negro CrescentMaitama DistrictAbujaNigeria",
+        "address": "\n                    \n                        11 Negro Crescent \n                    \n                    \n                        Maitama District \n                    \n                    \n                        Abuja \n                    \n                    \n                        Nigeria \n                    \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
         "head_of_mission": "Peter Ryan"
@@ -750,7 +750,7 @@
         "first_h2": "Diplomatic and Consular Information for Croatia",
         "hosts_emb": null,
         "telephone": " +385 1 6278 920",
-        "address": "Miramarska Avenue 23/lll10000 ZagrebCroatia",
+        "address": "\n                    \n                        Miramarska Avenue 23/lll \n                    \n                    \n                        10000 Zagreb \n                    \n                    \n                        Croatia \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/croatia/zagreb/",
         "consulates": [],
         "head_of_mission": "Ruaidhri Dowling"
@@ -764,7 +764,7 @@
         "first_h2": "Diplomatic and Consular Information for Mexico",
         "hosts_emb": true,
         "telephone": " +52 55 5520 5803",
-        "address": "Goldsmith #53 Piso 4, Col. PolancoChapultepec, Alcald\u00eda Miguel Hidalgo, CP11560, Ciudad de M\u00e9xicoM\u00e9xico",
+        "address": "\n                    \n                        Goldsmith #53 Piso 4, Col. Polanco \n                    \n                    \n                        Chapultepec, Alcald\u00eda Miguel Hidalgo, CP \n                    \n                    \n                        11560, Ciudad de M\u00e9xico \n                    \n                    \n                        M\u00e9xico \n                    \n                    \n                ",
         "embassy_url": "/en/mexico/mexicocity/",
         "consulates": [],
         "head_of_mission": "Maeve von Heynitz"
@@ -778,7 +778,7 @@
         "first_h2": "Diplomatic and Consular Information for the Netherlands",
         "hosts_emb": true,
         "telephone": " +31 (0)70 363 0993",
-        "address": "Scheveningseweg 1122584 AE The HagueThe Netherlands",
+        "address": "\n                    \n                        Scheveningseweg 112 \n                    \n                    \n                        2584 AE The Hague \n                    \n                    \n                        The Netherlands \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/thenetherlands/thehague/",
         "consulates": [],
         "head_of_mission": "Brendan Rogers"
@@ -792,7 +792,7 @@
         "first_h2": "Diplomatic and Consular Information for Cyprus",
         "hosts_emb": null,
         "telephone": " +357 2281 8183",
-        "address": "7 Aiantos StreetSt. Omologites1082 NicosiaCyprus",
+        "address": "\n                    \n                        7 Aiantos Street \n                    \n                    \n                        St. Omologites \n                    \n                    \n                        1082 Nicosia \n                    \n                    \n                        Cyprus \n                    \n                    \n                ",
         "embassy_url": "/en/cyprus/nicosia/",
         "consulates": [],
         "head_of_mission": "Conor Long"
@@ -806,7 +806,7 @@
         "first_h2": "Diplomatic and Consular Information for Czech Republic",
         "hosts_emb": null,
         "telephone": " +420 257 011 280",
-        "address": "Tr\u017ei\u0161t\u011b 13118 00 Prague 12nd Floor",
+        "address": "\n                    \n                        Tr\u017ei\u0161t\u011b 13 \n                    \n                    \n                        118 00 Prague 1 \n                    \n                    \n                        2nd Floor \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/czech-republic/prague/",
         "consulates": [],
         "head_of_mission": "Alan Gibbons"
@@ -820,7 +820,7 @@
         "first_h2": "Diplomatic and Consular Information for Denmark",
         "hosts_emb": null,
         "telephone": " +45 35 47 32 00",
-        "address": "\u00d8stbanegade 212100 Copenhagen \u00d8Denmark",
+        "address": "\n                    \n                        \u00d8stbanegade 21 \n                    \n                    \n                        2100 Copenhagen \u00d8 \n                    \n                    \n                        Denmark \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/denmark/copenhagen/",
         "consulates": [],
         "head_of_mission": "Elizabeth McCullough"
@@ -834,7 +834,7 @@
         "first_h2": "Diplomatic and Consular Information for Ethiopia",
         "hosts_emb": true,
         "telephone": " +251 11 518 0500",
-        "address": "Guinea Conakry StreetAddis AbabaEthiopia",
+        "address": "\n                    \n                        Guinea Conakry Street \n                    \n                    \n                        Addis Ababa \n                    \n                    \n                        Ethiopia \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/ethiopia/addisababa/",
         "consulates": [],
         "head_of_mission": "Nicola Brennan"
@@ -848,7 +848,7 @@
         "first_h2": "Diplomatic and Consular Information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -862,7 +862,7 @@
         "first_h2": "Diplomatic and Consular Information for Colombia",
         "hosts_emb": true,
         "telephone": " +57 601 657 6060",
-        "address": "Oficina 1605Edificio Tierra FirmeBogot\u00e1 DCColombiaAk 9 #115-30",
+        "address": "\n                    \n                        Oficina 1605 \n                    \n                    \n                        Edificio Tierra Firme \n                    \n                    \n                        Bogot\u00e1 DC \n                    \n                    \n                        Colombia \n                    \n                    \n                        Ak 9 #115-30 \n                    \n                ",
         "embassy_url": "/en/colombia/bogota/",
         "consulates": [],
         "head_of_mission": "Fiona Nic Dhonnacha"
@@ -876,7 +876,7 @@
         "first_h2": "Diplomatic and Consular Information for Chile",
         "hosts_emb": true,
         "telephone": " +56 233 04 6600",
-        "address": "Avenida Apoquindo 2929Piso 18Las Condes",
+        "address": "\n                    \n                        Avenida Apoquindo 2929 \n                    \n                    \n                        Piso 18 \n                    \n                    \n                        Las Condes \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/chile/santiago/",
         "consulates": [],
         "head_of_mission": "Colum Hatchell"
@@ -890,7 +890,7 @@
         "first_h2": "Diplomatic and Consular Information for Egypt",
         "hosts_emb": null,
         "telephone": " +202 27287100",
-        "address": "18 Hassan Sabry Street11561 ZamalekCairoEgypt",
+        "address": "\n                    \n                        18 Hassan Sabry Street \n                    \n                    \n                        11561 Zamalek \n                    \n                    \n                        Cairo \n                    \n                    \n                    \n                        Egypt \n                    \n                ",
         "embassy_url": "/en/egypt/cairo/",
         "consulates": [],
         "head_of_mission": "Nuala O'Brien"
@@ -904,7 +904,7 @@
         "first_h2": "Diplomatic and Consular Information for Mexico",
         "hosts_emb": true,
         "telephone": " +52 55 5520 5803",
-        "address": "Goldsmith #53 Piso 4, Col. PolancoChapultepec, Alcald\u00eda Miguel Hidalgo, CP11560, Ciudad de M\u00e9xicoM\u00e9xico",
+        "address": "\n                    \n                        Goldsmith #53 Piso 4, Col. Polanco \n                    \n                    \n                        Chapultepec, Alcald\u00eda Miguel Hidalgo, CP \n                    \n                    \n                        11560, Ciudad de M\u00e9xico \n                    \n                    \n                        M\u00e9xico \n                    \n                    \n                ",
         "embassy_url": "/en/mexico/mexicocity/",
         "consulates": [],
         "head_of_mission": "Maeve von Heynitz"
@@ -918,7 +918,7 @@
         "first_h2": "none found",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -932,7 +932,7 @@
         "first_h2": "Diplomatic and Consular Information for Kenya",
         "hosts_emb": true,
         "telephone": " +254 020 513 5300",
-        "address": "4th FloorDelta Office SuitesManyani Road, off Waiyaki WayPO Box 30659-00100Nairobi",
+        "address": "\n                    \n                        4th Floor \n                    \n                    \n                        Delta Office Suites \n                    \n                    \n                        Manyani Road, off Waiyaki Way \n                    \n                    \n                        PO Box 30659-00100 \n                    \n                    \n                        Nairobi \n                    \n                ",
         "embassy_url": "/en/kenya/nairobi/",
         "consulates": [],
         "head_of_mission": "Caitr\u00edona Ingoldsby"
@@ -946,7 +946,7 @@
         "first_h2": "Diplomatic and Consular Information for Estonia",
         "hosts_emb": null,
         "telephone": " +372 (0)6 811 870",
-        "address": "R\u00e4vala pst 510143TallinnEstonia",
+        "address": "\n                    \n                        R\u00e4vala pst 5 \n                    \n                    \n                        10143 \n                    \n                    \n                        Tallinn \n                    \n                    \n                    \n                        Estonia \n                    \n                ",
         "embassy_url": "/en/estonia/tallinn/",
         "consulates": [],
         "head_of_mission": "James Sherry"
@@ -960,7 +960,7 @@
         "first_h2": "Diplomatic and Consular Information for Mozambique",
         "hosts_emb": true,
         "telephone": " +258 21 501 700",
-        "address": "Avenida Julius Nyerere 3630,Sommershield,Maputo,Mozambique",
+        "address": "\n                    \n                        Avenida Julius Nyerere 3630, \n                    \n                    \n                        Sommershield, \n                    \n                    \n                        Maputo, \n                    \n                    \n                        Mozambique \n                    \n                    \n                ",
         "embassy_url": "/en/mozambique/maputo/",
         "consulates": [],
         "head_of_mission": "Patrick Empey"
@@ -974,7 +974,7 @@
         "first_h2": "Diplomatic and Consular Information for Ethiopia",
         "hosts_emb": null,
         "telephone": " +251 11 518 0500",
-        "address": "Guinea Conakry StreetAddis AbabaEthiopia",
+        "address": "\n                    \n                        Guinea Conakry Street \n                    \n                    \n                        Addis Ababa \n                    \n                    \n                        Ethiopia \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/ethiopia/addisababa/",
         "consulates": [],
         "head_of_mission": "Nicola Brennan"
@@ -988,7 +988,7 @@
         "first_h2": "Diplomatic and Consular Information for Denmark",
         "hosts_emb": null,
         "telephone": " +45 35 47 32 00",
-        "address": "\u00d8stbanegade 212100 Copenhagen \u00d8Denmark",
+        "address": "\n                    \n                        \u00d8stbanegade 21 \n                    \n                    \n                        2100 Copenhagen \u00d8 \n                    \n                    \n                        Denmark \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/denmark/copenhagen/",
         "consulates": [],
         "head_of_mission": "Elizabeth McCullough"
@@ -1002,7 +1002,7 @@
         "first_h2": "Diplomatic and Consular Information for Australia",
         "hosts_emb": true,
         "telephone": " +61 2 62140000",
-        "address": "20 Arkana StreetYarralumlaACT 2600Canberra",
+        "address": "\n                    \n                        20 Arkana Street \n                    \n                    \n                        Yarralumla \n                    \n                    \n                        ACT 2600 \n                    \n                    \n                    \n                        Canberra \n                    \n                ",
         "embassy_url": "/en/australia/canberra/",
         "consulates": [],
         "head_of_mission": "Tim Mawe"
@@ -1016,7 +1016,7 @@
         "first_h2": "Diplomatic and Consular Information for Finland",
         "hosts_emb": null,
         "telephone": " +358 9 682 4240",
-        "address": "Erottajankatu 7 A00130 HelsinkiFinland",
+        "address": "\n                    \n                        Erottajankatu 7 A \n                    \n                    \n                        00130 Helsinki \n                    \n                    \n                        Finland \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/finland/helsinki/",
         "consulates": [],
         "head_of_mission": "Ruth Parkin"
@@ -1030,7 +1030,7 @@
         "first_h2": "Diplomatic and Consular Information for France",
         "hosts_emb": false,
         "telephone": " +33 1 44 17 67 00",
-        "address": "12 avenue Foch(entrance 4 rue Rude)75116 ParisFrance",
+        "address": "\n                    \n                        12 avenue Foch \n                    \n                    \n                        (entrance 4 rue Rude) \n                    \n                    \n                        75116 Paris \n                    \n                    \n                    \n                        France \n                    \n                ",
         "embassy_url": "/en/france/paris/",
         "consulates": [
             {
@@ -1050,7 +1050,7 @@
         "first_h2": "Diplomatic and Consular Information for France",
         "hosts_emb": true,
         "telephone": " +33 1 44 17 67 00",
-        "address": "12 avenue Foch(entrance 4 rue Rude)75116 ParisFrance",
+        "address": "\n                    \n                        12 avenue Foch \n                    \n                    \n                        (entrance 4 rue Rude) \n                    \n                    \n                        75116 Paris \n                    \n                    \n                    \n                        France \n                    \n                ",
         "embassy_url": "/en/france/paris/",
         "consulates": [],
         "head_of_mission": "Niall Burgess"
@@ -1064,7 +1064,7 @@
         "first_h2": "none found",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1078,7 +1078,7 @@
         "first_h2": "Diplomatic and Consular Information for Nigeria",
         "hosts_emb": true,
         "telephone": " +234 209 462 1080",
-        "address": "11 Negro CrescentMaitama DistrictAbujaNigeria",
+        "address": "\n                    \n                        11 Negro Crescent \n                    \n                    \n                        Maitama District \n                    \n                    \n                        Abuja \n                    \n                    \n                        Nigeria \n                    \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
         "head_of_mission": "Peter Ryan"
@@ -1092,7 +1092,7 @@
         "first_h2": "Diplomatic and Consular Information for Bulgaria",
         "hosts_emb": true,
         "telephone": " +359 2 985 3425",
-        "address": "Platinum Business Centre26-30 Bacho Kiro street, Sofia 1000,Bulgaria",
+        "address": "\n                    \n                        Platinum Business Centre \n                    \n                    \n                        26-30 Bacho Kiro street, Sofia 1000, \n                    \n                    \n                        Bulgaria \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/bulgaria/sofia/",
         "consulates": [],
         "head_of_mission": "Martina Feeney"
@@ -1106,7 +1106,7 @@
         "first_h2": "Diplomatic and Consular Information for Germany",
         "hosts_emb": false,
         "telephone": " +49 30220720",
-        "address": "J\u00e4gerstra\u00dfe 5110117 BerlinGermany",
+        "address": "\n                    \n                        J\u00e4gerstra\u00dfe 51 \n                    \n                    \n                        10117 Berlin \n                    \n                    \n                        Germany \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/germany/berlin/",
         "consulates": [
             {
@@ -1126,7 +1126,7 @@
         "first_h2": "Diplomatic and Consular Information for Ghana",
         "hosts_emb": true,
         "telephone": " +234 209 462 1080",
-        "address": "11 Negro CrescentMaitama DistrictAbujaNigeria",
+        "address": "\n                    \n                        11 Negro Crescent \n                    \n                    \n                        Maitama District \n                    \n                    \n                        Abuja \n                    \n                    \n                        Nigeria \n                    \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
         "head_of_mission": "Peter Ryan"
@@ -1140,7 +1140,7 @@
         "first_h2": "Diplomatic and Consular Information for Great Britain",
         "hosts_emb": false,
         "telephone": " +44 20 72352171",
-        "address": "17 Grosvenor PlaceLondonSW1X 7HR",
+        "address": "\n                    \n                        17 Grosvenor Place \n                    \n                    \n                        London \n                    \n                    \n                        SW1X 7HR \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/greatbritain/london/",
         "consulates": [
             {
@@ -1170,7 +1170,7 @@
         "first_h2": "Diplomatic and Consular Information for Greece",
         "hosts_emb": false,
         "telephone": " +30 210 723 2771",
-        "address": "7 Leoforos Vasileos Konstantinou106 74AthensGreece",
+        "address": "\n                    \n                        7 Leoforos Vasileos Konstantinou \n                    \n                    \n                        106 74 \n                    \n                    \n                        Athens \n                    \n                    \n                    \n                        Greece \n                    \n                ",
         "embassy_url": "/en/greece/athens/",
         "consulates": [],
         "head_of_mission": "Iseult Fitzgerald"
@@ -1184,7 +1184,7 @@
         "first_h2": "Diplomatic and Consular Information for Denmark",
         "hosts_emb": false,
         "telephone": " +45 35 47 32 00",
-        "address": "\u00d8stbanegade 212100 Copenhagen \u00d8Denmark",
+        "address": "\n                    \n                        \u00d8stbanegade 21 \n                    \n                    \n                        2100 Copenhagen \u00d8 \n                    \n                    \n                        Denmark \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/denmark/copenhagen/",
         "consulates": [],
         "head_of_mission": "Elizabeth McCullough"
@@ -1198,7 +1198,7 @@
         "first_h2": "Diplomatic and Consular Information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -1212,7 +1212,7 @@
         "first_h2": "Diplomatic and Consular Information for France",
         "hosts_emb": true,
         "telephone": " +33 1 44 17 67 00",
-        "address": "12 avenue Foch(entrance 4 rue Rude)75116 ParisFrance",
+        "address": "\n                    \n                        12 avenue Foch \n                    \n                    \n                        (entrance 4 rue Rude) \n                    \n                    \n                        75116 Paris \n                    \n                    \n                    \n                        France \n                    \n                ",
         "embassy_url": "/en/france/paris/",
         "consulates": [],
         "head_of_mission": "Niall Burgess"
@@ -1226,7 +1226,7 @@
         "first_h2": "Diplomatic and Consular Information for Mexico",
         "hosts_emb": true,
         "telephone": " +52 55 5520 5803",
-        "address": "Goldsmith #53 Piso 4, Col. PolancoChapultepec, Alcald\u00eda Miguel Hidalgo, CP11560, Ciudad de M\u00e9xicoM\u00e9xico",
+        "address": "\n                    \n                        Goldsmith #53 Piso 4, Col. Polanco \n                    \n                    \n                        Chapultepec, Alcald\u00eda Miguel Hidalgo, CP \n                    \n                    \n                        11560, Ciudad de M\u00e9xico \n                    \n                    \n                        M\u00e9xico \n                    \n                    \n                ",
         "embassy_url": "/en/mexico/mexicocity/",
         "consulates": [],
         "head_of_mission": "Maeve von Heynitz"
@@ -1240,7 +1240,7 @@
         "first_h2": "Diplomatic and Consular Information for Sierra Leone",
         "hosts_emb": true,
         "telephone": " +232 79 250628",
-        "address": "8 St. Joseph\u2019s AvenueOff Spur RoadFreetownSierra Leone",
+        "address": "\n                    \n                        8 St. Joseph\u2019s Avenue \n                    \n                    \n                        Off Spur Road \n                    \n                    \n                        Freetown \n                    \n                    \n                        Sierra Leone \n                    \n                    \n                ",
         "embassy_url": "/en/sierraleone/freetown/",
         "consulates": [],
         "head_of_mission": "Aidan Fitzpatrick"
@@ -1254,7 +1254,7 @@
         "first_h2": "Diplomatic and Consular Information for Portugal",
         "hosts_emb": true,
         "telephone": " +351 213308200",
-        "address": "Avenida da Liberdade,Nr. 200, 4th floor,Lisbon1250-147",
+        "address": "\n                    \n                        Avenida da Liberdade, \n                    \n                    \n                        Nr. 200, 4th floor, \n                    \n                    \n                        Lisbon \n                    \n                    \n                    \n                        1250-147 \n                    \n                ",
         "embassy_url": "/en/portugal/lisbon/",
         "consulates": [],
         "head_of_mission": "Alma N\u00ed Choigligh"
@@ -1268,7 +1268,7 @@
         "first_h2": "Diplomatic and Consular Information for Brazil",
         "hosts_emb": true,
         "telephone": " +55 61 3248 8800",
-        "address": "SHIS QL 12 conjunto 05 casa 09Lago SulBras\u00edlia - DFCEP 71630-255Brazil",
+        "address": "\n                    \n                        SHIS QL 12 conjunto 05 casa 09 \n                    \n                    \n                        Lago Sul \n                    \n                    \n                        Bras\u00edlia - DF \n                    \n                    \n                        CEP 71630-255 \n                    \n                    \n                        Brazil \n                    \n                ",
         "embassy_url": "/en/brazil/brasilia/",
         "consulates": [],
         "head_of_mission": "Fiona Flood"
@@ -1282,7 +1282,7 @@
         "first_h2": "none found",
         "hosts_emb": false,
         "telephone": " +1 (212)421-6934",
-        "address": "885 Second Avenue21st Floor(between 47th & 48th st.)NY 10017USA",
+        "address": "\n                    \n                        885 Second Avenue \n                    \n                    \n                        21st Floor \n                    \n                    \n                        (between 47th & 48th st.) \n                    \n                    \n                        NY 10017 \n                    \n                    \n                        USA \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1296,7 +1296,7 @@
         "first_h2": "none found",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1310,7 +1310,7 @@
         "first_h2": "Diplomatic and Consular Information for Holy See",
         "hosts_emb": null,
         "telephone": " +39 06 5852 3880",
-        "address": "Via dei Corridori, 4800193 RomeItaly",
+        "address": "\n                    \n                        Via dei Corridori, 48 \n                    \n                    \n                        00193 Rome \n                    \n                    \n                        Italy \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/holysee/vaticancity/",
         "consulates": [],
         "head_of_mission": "Frances Collins"
@@ -1324,7 +1324,7 @@
         "first_h2": "Diplomatic and Consular Information for Mexico",
         "hosts_emb": true,
         "telephone": " +52 55 5520 5803",
-        "address": "Goldsmith #53 Piso 4, Col. PolancoChapultepec, Alcald\u00eda Miguel Hidalgo, CP11560, Ciudad de M\u00e9xicoM\u00e9xico",
+        "address": "\n                    \n                        Goldsmith #53 Piso 4, Col. Polanco \n                    \n                    \n                        Chapultepec, Alcald\u00eda Miguel Hidalgo, CP \n                    \n                    \n                        11560, Ciudad de M\u00e9xico \n                    \n                    \n                        M\u00e9xico \n                    \n                    \n                ",
         "embassy_url": "/en/mexico/mexicocity/",
         "consulates": [],
         "head_of_mission": "Maeve von Heynitz"
@@ -1338,7 +1338,7 @@
         "first_h2": "Diplomatic and Consular Information for Hungary",
         "hosts_emb": null,
         "telephone": " +36 1 301 4960",
-        "address": "Budapest 1054.Szabadsag ter 7.Bank CenterBudapest",
+        "address": "\n                    \n                        Budapest 1054. \n                    \n                    \n                        Szabadsag ter 7. \n                    \n                    \n                        Bank Center \n                    \n                    \n                    \n                        Budapest \n                    \n                ",
         "embassy_url": "/en/hungary/budapest/",
         "consulates": [],
         "head_of_mission": "Ragnar Almqvist"
@@ -1352,7 +1352,7 @@
         "first_h2": "Diplomatic and Consular Information for Norway",
         "hosts_emb": true,
         "telephone": " +47 2201 7200",
-        "address": "Floor 6,Haakon VIIs gate 1PO Box 4006 AMB0244 Oslo, Norway",
+        "address": "\n                    \n                        Floor 6, \n                    \n                    \n                        Haakon VIIs gate 1 \n                    \n                    \n                        PO Box 4006 AMB \n                    \n                    \n                    \n                        0244 Oslo, Norway \n                    \n                ",
         "embassy_url": "/en/norway/oslo/",
         "consulates": [],
         "head_of_mission": "Claire Buckley"
@@ -1366,7 +1366,7 @@
         "first_h2": "Diplomatic and Consular Information for India",
         "hosts_emb": false,
         "telephone": " +91 11 4940 3200",
-        "address": "C17 Malcha MargChanakyapuriNew Delhi 110 021India",
+        "address": "\n                    \n                        C17 Malcha Marg \n                    \n                    \n                        Chanakyapuri \n                    \n                    \n                        New Delhi 110 021 \n                    \n                    \n                    \n                        India \n                    \n                ",
         "embassy_url": "/en/india/newdelhi/",
         "consulates": [
             {
@@ -1386,7 +1386,7 @@
         "first_h2": "Diplomatic and Consular Information for Indonesia",
         "hosts_emb": null,
         "telephone": " +62 21 280 94300",
-        "address": "World Trade Centre 1, L-14Jl. Jend. Sudirman Kav 29-31Jakarta 12920",
+        "address": "\n                    \n                        World Trade Centre 1, L-14 \n                    \n                    \n                        Jl. Jend. Sudirman Kav 29-31 \n                    \n                    \n                        Jakarta 12920 \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/indonesia/jakarta/",
         "consulates": [],
         "head_of_mission": "P\u00e1draig Francis"
@@ -1400,7 +1400,7 @@
         "first_h2": "Diplomatic and Consular Information for T\u00fcrkiye",
         "hosts_emb": true,
         "telephone": " +90 312 459 1000",
-        "address": "Ugur Mumcu Caddesi No.88MNG Binasi, A&B Blok, Kat 1GaziosmanpasaAnkara 06700",
+        "address": "\n                    \n                        Ugur Mumcu Caddesi No.88 \n                    \n                    \n                        MNG Binasi, A&B Blok, Kat 1 \n                    \n                    \n                        Gaziosmanpasa \n                    \n                    \n                    \n                        Ankara 06700 \n                    \n                ",
         "embassy_url": "/en/turkiye/ankara/",
         "consulates": [],
         "head_of_mission": "John McCullagh"
@@ -1414,7 +1414,7 @@
         "first_h2": "Diplomatic and Consular Information for Jordan",
         "hosts_emb": true,
         "telephone": " +962 65903200",
-        "address": "Bashir Kheir Street 15Opposite the Orthodox ClubAbdoun, Amman, Jordan",
+        "address": "\n                    \n                        Bashir Kheir Street 15 \n                    \n                    \n                        Opposite the Orthodox Club \n                    \n                    \n                        Abdoun, Amman, Jordan \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/jordan/amman/",
         "consulates": [],
         "head_of_mission": "Marianne Bolger"
@@ -1428,7 +1428,7 @@
         "first_h2": "Diplomatic and Consular Information for Israel",
         "hosts_emb": null,
         "telephone": " +972 36964166",
-        "address": "Amot Atrium Tower2 Ze'ev JabotinskyRamat Gan5250501",
+        "address": "\n                    \n                        Amot Atrium Tower \n                    \n                    \n                        2 Ze'ev Jabotinsky \n                    \n                    \n                        Ramat Gan \n                    \n                    \n                    \n                        5250501 \n                    \n                ",
         "embassy_url": "/en/israel/telaviv/",
         "consulates": [],
         "head_of_mission": "Sonya McGuinness"
@@ -1442,7 +1442,7 @@
         "first_h2": "Diplomatic and Consular Information for Italy",
         "hosts_emb": null,
         "telephone": " +39 02 551 87569",
-        "address": "Villa SpadaVia Giacomo Medici 1Roma 00153Italy",
+        "address": "\n                    \n                        Villa Spada \n                    \n                    \n                        Via Giacomo Medici 1 \n                    \n                    \n                        Roma 00153 \n                    \n                    \n                        Italy \n                    \n                    \n                ",
         "embassy_url": "/en/italy/rome/",
         "consulates": [],
         "head_of_mission": "Patricia O'Brien"
@@ -1456,7 +1456,7 @@
         "first_h2": "Diplomatic and Consular Information for Canada",
         "hosts_emb": true,
         "telephone": " +1 613 233 6281",
-        "address": "150 Metcalfe Street,Suite 1700,OttawaON K2P 1P1",
+        "address": "\n                    \n                        150 Metcalfe Street, \n                    \n                    \n                        Suite 1700, \n                    \n                    \n                        Ottawa \n                    \n                    \n                    \n                        ON K2P 1P1 \n                    \n                ",
         "embassy_url": "/en/canada/ottawa/",
         "consulates": [],
         "head_of_mission": "Eamonn McKee"
@@ -1470,7 +1470,7 @@
         "first_h2": "Diplomatic and Consular Information for Japan",
         "hosts_emb": null,
         "telephone": " +81 0332630695",
-        "address": "Ireland House2-10-7 KojimachiChiyoda-kuTokyo, Japan102-0083",
+        "address": "\n                    \n                        Ireland House \n                    \n                    \n                        2-10-7 Kojimachi \n                    \n                    \n                        Chiyoda-ku \n                    \n                    \n                        Tokyo, Japan \n                    \n                    \n                        102-0083 \n                    \n                ",
         "embassy_url": "/en/japan/tokyo/",
         "consulates": [],
         "head_of_mission": "Damien Cole"
@@ -1484,7 +1484,7 @@
         "first_h2": "Diplomatic and Consular Information for Jordan",
         "hosts_emb": null,
         "telephone": " +962 65903200",
-        "address": "Bashir Kheir Street 15Opposite the Orthodox ClubAbdoun, Amman, Jordan",
+        "address": "\n                    \n                        Bashir Kheir Street 15 \n                    \n                    \n                        Opposite the Orthodox Club \n                    \n                    \n                        Abdoun, Amman, Jordan \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/jordan/amman/",
         "consulates": [],
         "head_of_mission": "Marianne Bolger"
@@ -1498,7 +1498,7 @@
         "first_h2": "Diplomatic and Consular Information for Russia",
         "hosts_emb": true,
         "telephone": " +7 4959375911",
-        "address": "Grokholski Pereulok 5Moscow 129090Russia",
+        "address": "\n                    \n                        Grokholski Pereulok 5 \n                    \n                    \n                        Moscow 129090 \n                    \n                    \n                        Russia \n                    \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1512,7 +1512,7 @@
         "first_h2": "Diplomatic and Consular Information for Kenya",
         "hosts_emb": null,
         "telephone": " +254 020 513 5300",
-        "address": "4th FloorDelta Office SuitesManyani Road, off Waiyaki WayPO Box 30659-00100Nairobi",
+        "address": "\n                    \n                        4th Floor \n                    \n                    \n                        Delta Office Suites \n                    \n                    \n                        Manyani Road, off Waiyaki Way \n                    \n                    \n                        PO Box 30659-00100 \n                    \n                    \n                        Nairobi \n                    \n                ",
         "embassy_url": "/en/kenya/nairobi/",
         "consulates": [],
         "head_of_mission": "Caitr\u00edona Ingoldsby"
@@ -1526,7 +1526,7 @@
         "first_h2": "none found",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1540,7 +1540,7 @@
         "first_h2": "Diplomatic and Consular Information for Republic of Korea",
         "hosts_emb": true,
         "telephone": " +02 721 7200",
-        "address": "Leema Bldg. 13F.42, Jongro 1-gilJongno-guSeoul, Korea 03152",
+        "address": "\n                    \n                        Leema Bldg. 13F. \n                    \n                    \n                        42, Jongro 1-gil \n                    \n                    \n                        Jongno-gu \n                    \n                    \n                    \n                        Seoul, Korea 03152 \n                    \n                ",
         "embassy_url": "/en/republic-of-korea/seoul/",
         "consulates": [],
         "head_of_mission": "Michelle Winthrop"
@@ -1554,7 +1554,7 @@
         "first_h2": "Diplomatic and Consular Information for the Republic of Korea",
         "hosts_emb": null,
         "telephone": " +02 721 7200",
-        "address": "Leema Bldg. 13F.42, Jongro 1-gilJongno-guSeoul, Korea 03152",
+        "address": "\n                    \n                        Leema Bldg. 13F. \n                    \n                    \n                        42, Jongro 1-gil \n                    \n                    \n                        Jongno-gu \n                    \n                    \n                    \n                        Seoul, Korea 03152 \n                    \n                ",
         "embassy_url": "/en/republic-of-korea/seoul/",
         "consulates": [],
         "head_of_mission": "Michelle Winthrop"
@@ -1568,7 +1568,7 @@
         "first_h2": "Diplomatic and Consular Information for Hungary",
         "hosts_emb": true,
         "telephone": " +36 1 301 4960",
-        "address": "Budapest 1054.Szabadsag ter 7.Bank CenterBudapest",
+        "address": "\n                    \n                        Budapest 1054. \n                    \n                    \n                        Szabadsag ter 7. \n                    \n                    \n                        Bank Center \n                    \n                    \n                    \n                        Budapest \n                    \n                ",
         "embassy_url": "/en/hungary/budapest/",
         "consulates": [],
         "head_of_mission": "Ragnar Almqvist"
@@ -1582,7 +1582,7 @@
         "first_h2": "Diplomatic and Consular Information for the United Arab Emirates (UAE)",
         "hosts_emb": true,
         "telephone": " +971 2 4958200",
-        "address": "Atiq Bin Majid Al Muhairi StreetAl Bateen, P.O. Box 61581Abu DhabiUnited Arab Emirates",
+        "address": "\n                    \n                        Atiq Bin Majid Al Muhairi Street \n                    \n                    \n                        Al Bateen, P.O. Box 61581 \n                    \n                    \n                        Abu Dhabi \n                    \n                    \n                    \n                        United Arab Emirates \n                    \n                ",
         "embassy_url": "/en/uae/abudhabi/",
         "consulates": [],
         "head_of_mission": "Alison Milton"
@@ -1596,7 +1596,7 @@
         "first_h2": "Diplomatic and Consular Information for Russia",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1610,7 +1610,7 @@
         "first_h2": "Diplomatic and Consular Information for Vietnam",
         "hosts_emb": true,
         "telephone": " +84 24 3974 3291",
-        "address": "2nd floor,41A Ly Thai ToHoan Kiem District, HanoiVietnam",
+        "address": "\n                    \n                        2nd floor, \n                    \n                    \n                        41A Ly Thai To \n                    \n                    \n                        Hoan Kiem District, Hanoi \n                    \n                    \n                    \n                        Vietnam \n                    \n                ",
         "embassy_url": "/en/vietnam/hanoi/",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1624,7 +1624,7 @@
         "first_h2": "Diplomatic and Consular Information for Latvia",
         "hosts_emb": null,
         "telephone": " +371 6703 9370",
-        "address": "Alberta Street 13RigaLatviaLV-1010",
+        "address": "\n                    \n                        Alberta Street 13 \n                    \n                    \n                        Riga \n                    \n                    \n                        Latvia \n                    \n                    \n                    \n                        LV-1010 \n                    \n                ",
         "embassy_url": "/en/latvia/riga/",
         "consulates": [],
         "head_of_mission": "Eimear Friel"
@@ -1638,7 +1638,7 @@
         "first_h2": "Diplomatic and Consular Information for Egypt",
         "hosts_emb": true,
         "telephone": " +202 27287100",
-        "address": "18 Hassan Sabry Street11561 ZamalekCairoEgypt",
+        "address": "\n                    \n                        18 Hassan Sabry Street \n                    \n                    \n                        11561 Zamalek \n                    \n                    \n                        Cairo \n                    \n                    \n                    \n                        Egypt \n                    \n                ",
         "embassy_url": "/en/egypt/cairo/",
         "consulates": [],
         "head_of_mission": "Nuala O'Brien"
@@ -1652,7 +1652,7 @@
         "first_h2": "Diplomatic and Consular Information for South Africa",
         "hosts_emb": true,
         "telephone": " +27 12 452 1000",
-        "address": "2nd Floor, Building A, OMK House,238 Florence Ribeiro Avenue, Nieuw Muckleneuk,Pretoria,South Africa0181",
+        "address": "\n                    \n                        2nd Floor, Building A, OMK House, \n                    \n                    \n                        238 Florence Ribeiro Avenue, Nieuw Muckleneuk, \n                    \n                    \n                        Pretoria, \n                    \n                    \n                        South Africa \n                    \n                    \n                        0181 \n                    \n                ",
         "embassy_url": "/en/southafrica/pretoria/",
         "consulates": [],
         "head_of_mission": "Austin Gormley"
@@ -1666,7 +1666,7 @@
         "first_h2": "Diplomatic and Consular Information for Liberia",
         "hosts_emb": null,
         "telephone": " +231 7767 56020",
-        "address": "LCL Compound 12th StreetSinkorMonroviaLiberia",
+        "address": "\n                    \n                        LCL Compound 12th Street \n                    \n                    \n                        Sinkor \n                    \n                    \n                        Monrovia \n                    \n                    \n                        Liberia \n                    \n                    \n                ",
         "embassy_url": "/en/liberia/monrovia/",
         "consulates": [],
         "head_of_mission": "Gerard Considine"
@@ -1680,7 +1680,7 @@
         "first_h2": "Diplomatic and Consular Information for Italy",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "Villa SpadaVia Giacomo Medici 1Roma 00153Italy",
+        "address": "\n                    \n                        Villa Spada \n                    \n                    \n                        Via Giacomo Medici 1 \n                    \n                    \n                        Roma 00153 \n                    \n                    \n                        Italy \n                    \n                    \n                ",
         "embassy_url": "/en/italy/rome/",
         "consulates": [],
         "head_of_mission": "Patricia O'Brien"
@@ -1694,7 +1694,7 @@
         "first_h2": "Diplomatic and Consular Information for Switzerland",
         "hosts_emb": true,
         "telephone": " +41 31 350 03 80",
-        "address": "2nd floor Kirchenfeldstrasse 68P.O. Box 262CH-3000 Berne 6Switzerland",
+        "address": "\n                    \n                        2nd floor Kirchenfeldstrasse 68 \n                    \n                    \n                        P.O. Box 262 \n                    \n                    \n                        CH-3000 Berne 6 \n                    \n                    \n                    \n                        Switzerland \n                    \n                ",
         "embassy_url": "/en/switzerland/berne/",
         "consulates": [],
         "head_of_mission": "Aoife McGarry"
@@ -1708,7 +1708,7 @@
         "first_h2": "Diplomatic and Consular Information for Lithuania",
         "hosts_emb": null,
         "telephone": " +370 5 2629460",
-        "address": "Gedimino Prospektas 1Vilnius, LT-01103Lithuania",
+        "address": "\n                    \n                        Gedimino Prospektas 1 \n                    \n                    \n                        Vilnius, LT-01103 \n                    \n                    \n                        Lithuania \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/lithuania/vilnius/",
         "consulates": [],
         "head_of_mission": "S\u00e9adhna MacHugh"
@@ -1722,7 +1722,7 @@
         "first_h2": "Diplomatic and Consular Information for Luxembourg",
         "hosts_emb": null,
         "telephone": " +352 450 610",
-        "address": "R\u00e9sidence Christina (2nd floor)28 route d'ArlonL-1140 Luxembourg",
+        "address": "\n                    \n                        R\u00e9sidence Christina (2nd floor) \n                    \n                    \n                        28 route d'Arlon \n                    \n                    \n                        L-1140 Luxembourg \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/luxembourg/embassy/",
         "consulates": [],
         "head_of_mission": "Jean McDonald"
@@ -1736,7 +1736,7 @@
         "first_h2": "Diplomatic and Consular Information for Mozambique",
         "hosts_emb": true,
         "telephone": " +258 21 501 700",
-        "address": "Avenida Julius Nyerere 3630,Sommershield,Maputo,Mozambique",
+        "address": "\n                    \n                        Avenida Julius Nyerere 3630, \n                    \n                    \n                        Sommershield, \n                    \n                    \n                        Maputo, \n                    \n                    \n                        Mozambique \n                    \n                    \n                ",
         "embassy_url": "/en/mozambique/maputo/",
         "consulates": [],
         "head_of_mission": "Patrick Empey"
@@ -1750,7 +1750,7 @@
         "first_h2": "Diplomatic and Consular Information for Malawi",
         "hosts_emb": null,
         "telephone": " +265 985 936 610",
-        "address": "Arwa House (3rd Floor)13/14 City CentreLilongweMalawi",
+        "address": "\n                    \n                        Arwa House (3rd Floor) \n                    \n                    \n                        13/14 City Centre \n                    \n                    \n                        Lilongwe \n                    \n                    \n                        Malawi \n                    \n                    \n                ",
         "embassy_url": "/en/malawi/lilongwe/",
         "consulates": [],
         "head_of_mission": "S\u00e9amus O'Grady"
@@ -1764,7 +1764,7 @@
         "first_h2": "Diplomatic and Consular Information for Malaysia",
         "hosts_emb": null,
         "telephone": " +603 2167 8200",
-        "address": "South Block5th FloorThe Amp Walk, 218 Jalan AmpangKuala Lumpur, 50450Malaysia",
+        "address": "\n                    \n                        South Block \n                    \n                    \n                        5th Floor \n                    \n                    \n                        The Amp Walk, 218 Jalan Ampang \n                    \n                    \n                        Kuala Lumpur, 50450 \n                    \n                    \n                        Malaysia \n                    \n                ",
         "embassy_url": "/en/malaysia/kualalumpur/",
         "consulates": [],
         "head_of_mission": "Orla Tunney"
@@ -1778,7 +1778,7 @@
         "first_h2": "Diplomatic and Consular Information for India",
         "hosts_emb": true,
         "telephone": " +91 11 4940 3200",
-        "address": "C17 Malcha MargChanakyapuriNew Delhi 110 021India",
+        "address": "\n                    \n                        C17 Malcha Marg \n                    \n                    \n                        Chanakyapuri \n                    \n                    \n                        New Delhi 110 021 \n                    \n                    \n                    \n                        India \n                    \n                ",
         "embassy_url": "/en/india/newdelhi/",
         "consulates": [],
         "head_of_mission": "Kevin Kelly"
@@ -1792,7 +1792,7 @@
         "first_h2": "Diplomatic and Consular Information for Mali",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1806,7 +1806,7 @@
         "first_h2": "Diplomatic and Consular Information for Malta",
         "hosts_emb": null,
         "telephone": " +356 21334744",
-        "address": "Whitehall MansionsIx-Xatt ta\u2019 Ta\u2019 XbiexXBX 1026Malta",
+        "address": "\n                    \n                        Whitehall Mansions \n                    \n                    \n                        Ix-Xatt ta\u2019 Ta\u2019 Xbiex \n                    \n                    \n                        XBX 1026 \n                    \n                    \n                        Malta \n                    \n                    \n                ",
         "embassy_url": "/en/malta/valletta/",
         "consulates": [],
         "head_of_mission": "H.E. Caroline Whelan"
@@ -1820,7 +1820,7 @@
         "first_h2": "Diplomatic and Consular Information for Marshall Islands",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1834,7 +1834,7 @@
         "first_h2": "Diplomatic and Consular Information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -1848,7 +1848,7 @@
         "first_h2": "Diplomatic and Consular Information for Mauritania",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1862,7 +1862,7 @@
         "first_h2": "Diplomatic and Consular Information for South Africa",
         "hosts_emb": true,
         "telephone": " +27 12 452 1000",
-        "address": "2nd Floor, Building A, OMK House,238 Florence Ribeiro Avenue, Nieuw Muckleneuk,Pretoria,South Africa0181",
+        "address": "\n                    \n                        2nd Floor, Building A, OMK House, \n                    \n                    \n                        238 Florence Ribeiro Avenue, Nieuw Muckleneuk, \n                    \n                    \n                        Pretoria, \n                    \n                    \n                        South Africa \n                    \n                    \n                        0181 \n                    \n                ",
         "embassy_url": "/en/southafrica/pretoria/",
         "consulates": [],
         "head_of_mission": "Austin Gormley"
@@ -1876,7 +1876,7 @@
         "first_h2": "Diplomatic and Consular Information for Mayotte",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1890,7 +1890,7 @@
         "first_h2": "Diplomatic and Consular Information for Mexico",
         "hosts_emb": null,
         "telephone": " +52 55 5520 5803",
-        "address": "Goldsmith #53 Piso 4, Col. PolancoChapultepec, Alcald\u00eda Miguel Hidalgo, CP11560, Ciudad de M\u00e9xicoM\u00e9xico",
+        "address": "\n                    \n                        Goldsmith #53 Piso 4, Col. Polanco \n                    \n                    \n                        Chapultepec, Alcald\u00eda Miguel Hidalgo, CP \n                    \n                    \n                        11560, Ciudad de M\u00e9xico \n                    \n                    \n                        M\u00e9xico \n                    \n                    \n                ",
         "embassy_url": "/en/mexico/mexicocity/",
         "consulates": [],
         "head_of_mission": "Maeve von Heynitz"
@@ -1904,7 +1904,7 @@
         "first_h2": "Diplomatic and Consular Information for Romania",
         "hosts_emb": true,
         "telephone": " +40 758611959",
-        "address": "Bulevardul Iuliu Maniu 6L,Bucure\u0219ti 061072,BucharestRomania",
+        "address": "\n                    \n                        Bulevardul Iuliu Maniu 6L, \n                    \n                    \n                        Bucure\u0219ti 061072, \n                    \n                    \n                        Bucharest \n                    \n                    \n                    \n                        Romania \n                    \n                ",
         "embassy_url": "/en/romania/bucharest/",
         "consulates": [],
         "head_of_mission": "Brendan Ward"
@@ -1918,7 +1918,7 @@
         "first_h2": "Diplomatic and Consular Information for France",
         "hosts_emb": true,
         "telephone": " +33 1 44 17 67 00",
-        "address": "12 avenue Foch(entrance 4 rue Rude)75116 ParisFrance",
+        "address": "\n                    \n                        12 avenue Foch \n                    \n                    \n                        (entrance 4 rue Rude) \n                    \n                    \n                        75116 Paris \n                    \n                    \n                    \n                        France \n                    \n                ",
         "embassy_url": "/en/france/paris/",
         "consulates": [],
         "head_of_mission": "Niall Burgess"
@@ -1932,7 +1932,7 @@
         "first_h2": "Diplomatic and Consular Information for China",
         "hosts_emb": true,
         "telephone": " +86 10 8531 6200",
-        "address": "3 Ritan Dong LuChaoyang DistrictBeijing 100600People's Republic of China",
+        "address": "\n                    \n                        3 Ritan Dong Lu \n                    \n                    \n                        Chaoyang District \n                    \n                    \n                        Beijing 100600 \n                    \n                    \n                        People's Republic of China \n                    \n                    \n                ",
         "embassy_url": "/en/china/beijing/",
         "consulates": [],
         "head_of_mission": "Ann Derwin"
@@ -1946,7 +1946,7 @@
         "first_h2": "Diplomatic and Consular Information for Hungary",
         "hosts_emb": true,
         "telephone": " +36 1 301 4960",
-        "address": "Budapest 1054.Szabadsag ter 7.Bank CenterBudapest",
+        "address": "\n                    \n                        Budapest 1054. \n                    \n                    \n                        Szabadsag ter 7. \n                    \n                    \n                        Bank Center \n                    \n                    \n                    \n                        Budapest \n                    \n                ",
         "embassy_url": "/en/hungary/budapest/",
         "consulates": [],
         "head_of_mission": "Ragnar Almqvist"
@@ -1960,7 +1960,7 @@
         "first_h2": "Diplomatic and Consular Information for Monserrat",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -1974,7 +1974,7 @@
         "first_h2": "Diplomatic and Consular Information for Morocco",
         "hosts_emb": null,
         "telephone": " +212 530134083",
-        "address": "Rabat Mahaj Ryad Centre,Avenue Attine, B\u00e2timent 7,Hay Ryad,Rabat, Morocco",
+        "address": "\n                    \n                        Rabat Mahaj Ryad Centre, \n                    \n                    \n                        Avenue Attine, B\u00e2timent 7, \n                    \n                    \n                        Hay Ryad, \n                    \n                    \n                        Rabat, Morocco \n                    \n                    \n                ",
         "embassy_url": "/en/morocco/rabat/",
         "consulates": [],
         "head_of_mission": "James McIntyre"
@@ -1988,7 +1988,7 @@
         "first_h2": "Diplomatic and Consular Information for Mozambique",
         "hosts_emb": null,
         "telephone": " +258 21 501 700",
-        "address": "Avenida Julius Nyerere 3630,Sommershield,Maputo,Mozambique",
+        "address": "\n                    \n                        Avenida Julius Nyerere 3630, \n                    \n                    \n                        Sommershield, \n                    \n                    \n                        Maputo, \n                    \n                    \n                        Mozambique \n                    \n                    \n                ",
         "embassy_url": "/en/mozambique/maputo/",
         "consulates": [],
         "head_of_mission": "Patrick Empey"
@@ -2002,7 +2002,7 @@
         "first_h2": "Diplomatic and Consular Information for Thailand",
         "hosts_emb": true,
         "telephone": " +66 2 016 1360",
-        "address": "208 Wireless Road 12th Floor,Unit 1201Lumphini, PathumwanBangkok 10330",
+        "address": "\n                    \n                        208 Wireless Road 12th Floor, \n                    \n                    \n                        Unit 1201 \n                    \n                    \n                        Lumphini, Pathumwan \n                    \n                    \n                    \n                        Bangkok 10330 \n                    \n                ",
         "embassy_url": "/en/thailand/bangkok/",
         "consulates": [],
         "head_of_mission": "Pat Bourne"
@@ -2016,7 +2016,7 @@
         "first_h2": "Diplomatic and Consular Information for Zambia",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "6663 Katima Mulilo Rd,P.O. Box 34923,Lusaka 10101,Zambia",
+        "address": "\n                    \n                        6663 Katima Mulilo Rd, \n                    \n                    \n                        P.O. Box 34923, \n                    \n                    \n                        Lusaka 10101, \n                    \n                    \n                        Zambia \n                    \n                    \n                ",
         "embassy_url": "/en/zambia/lusaka/",
         "consulates": [],
         "head_of_mission": "Bronagh Carr"
@@ -2030,7 +2030,7 @@
         "first_h2": "Diplomatic and Consular Information for Nauru",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2044,7 +2044,7 @@
         "first_h2": "Diplomatic and Consular Information for India",
         "hosts_emb": true,
         "telephone": " +91 11 4940 3200",
-        "address": "C17 Malcha MargChanakyapuriNew Delhi 110 021India",
+        "address": "\n                    \n                        C17 Malcha Marg \n                    \n                    \n                        Chanakyapuri \n                    \n                    \n                        New Delhi 110 021 \n                    \n                    \n                    \n                        India \n                    \n                ",
         "embassy_url": "/en/india/newdelhi/",
         "consulates": [],
         "head_of_mission": "Kevin Kelly"
@@ -2058,7 +2058,7 @@
         "first_h2": "Diplomatic and Consular Information for The Netherlands",
         "hosts_emb": null,
         "telephone": " +31 (0)70 363 0993",
-        "address": "Scheveningseweg 1122584 AE The HagueThe Netherlands",
+        "address": "\n                    \n                        Scheveningseweg 112 \n                    \n                    \n                        2584 AE The Hague \n                    \n                    \n                        The Netherlands \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/thenetherlands/thehague/",
         "consulates": [],
         "head_of_mission": "Brendan Rogers"
@@ -2072,7 +2072,7 @@
         "first_h2": "Diplomatic and Consular Information for The Netherlands",
         "hosts_emb": true,
         "telephone": " +31 (0)70 363 0993",
-        "address": "Scheveningseweg 1122584 AE The HagueThe Netherlands",
+        "address": "\n                    \n                        Scheveningseweg 112 \n                    \n                    \n                        2584 AE The Hague \n                    \n                    \n                        The Netherlands \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/thenetherlands/thehague/",
         "consulates": [],
         "head_of_mission": "Brendan Rogers"
@@ -2086,7 +2086,7 @@
         "first_h2": "Diplomatic and Consular Information for New Caledonia (French)",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2100,7 +2100,7 @@
         "first_h2": "Diplomatic and Consular Information for New Zealand",
         "hosts_emb": null,
         "telephone": " +64 4 471 2252",
-        "address": "Level 10, 86 Victoria StreetPO Box 11498 Manners StreetWellington 6011New Zealand",
+        "address": "\n                    \n                        Level 10, 86 Victoria Street \n                    \n                    \n                        PO Box 11498 Manners Street \n                    \n                    \n                        Wellington 6011 \n                    \n                    \n                        New Zealand \n                    \n                    \n                ",
         "embassy_url": "/en/new-zealand/wellington/",
         "consulates": [],
         "head_of_mission": "Jane Connolly"
@@ -2114,7 +2114,7 @@
         "first_h2": "Diplomatic and Consular Information for Mexico",
         "hosts_emb": true,
         "telephone": " +52 55 5520 5803",
-        "address": "Goldsmith #53 Piso 4, Col. PolancoChapultepec, Alcald\u00eda Miguel Hidalgo, CP11560, Ciudad de M\u00e9xicoM\u00e9xico",
+        "address": "\n                    \n                        Goldsmith #53 Piso 4, Col. Polanco \n                    \n                    \n                        Chapultepec, Alcald\u00eda Miguel Hidalgo, CP \n                    \n                    \n                        11560, Ciudad de M\u00e9xico \n                    \n                    \n                        M\u00e9xico \n                    \n                    \n                ",
         "embassy_url": "/en/mexico/mexicocity/",
         "consulates": [],
         "head_of_mission": "Maeve von Heynitz"
@@ -2128,7 +2128,7 @@
         "first_h2": "Diplomatic and Consular Information for Nigeria",
         "hosts_emb": true,
         "telephone": " +234 209 462 1080",
-        "address": "11 Negro CrescentMaitama DistrictAbujaNigeria",
+        "address": "\n                    \n                        11 Negro Crescent \n                    \n                    \n                        Maitama District \n                    \n                    \n                        Abuja \n                    \n                    \n                        Nigeria \n                    \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
         "head_of_mission": "Peter Ryan"
@@ -2142,7 +2142,7 @@
         "first_h2": "Diplomatic and Consular Information for Nigeria",
         "hosts_emb": null,
         "telephone": " +234 209 462 1080",
-        "address": "11 Negro CrescentMaitama DistrictAbujaNigeria",
+        "address": "\n                    \n                        11 Negro Crescent \n                    \n                    \n                        Maitama District \n                    \n                    \n                        Abuja \n                    \n                    \n                        Nigeria \n                    \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
         "head_of_mission": "Peter Ryan"
@@ -2156,7 +2156,7 @@
         "first_h2": "Diplomatic and Consular Information for Norfolk Island",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2170,7 +2170,7 @@
         "first_h2": "Diplomatic and Consular Information for Romania",
         "hosts_emb": true,
         "telephone": " +40 758611959",
-        "address": "Bulevardul Iuliu Maniu 6L,Bucure\u0219ti 061072,BucharestRomania",
+        "address": "\n                    \n                        Bulevardul Iuliu Maniu 6L, \n                    \n                    \n                        Bucure\u0219ti 061072, \n                    \n                    \n                        Bucharest \n                    \n                    \n                    \n                        Romania \n                    \n                ",
         "embassy_url": "/en/romania/bucharest/",
         "consulates": [],
         "head_of_mission": "Brendan Ward"
@@ -2184,7 +2184,7 @@
         "first_h2": "Diplomatic and Consular Information for Northern Mariana Islands",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2198,7 +2198,7 @@
         "first_h2": "Diplomatic and Consular Information for Norway",
         "hosts_emb": null,
         "telephone": " +47 2201 7200",
-        "address": "Floor 6,Haakon VIIs gate 1PO Box 4006 AMB0244 Oslo, Norway",
+        "address": "\n                    \n                        Floor 6, \n                    \n                    \n                        Haakon VIIs gate 1 \n                    \n                    \n                        PO Box 4006 AMB \n                    \n                    \n                    \n                        0244 Oslo, Norway \n                    \n                ",
         "embassy_url": "/en/norway/oslo/",
         "consulates": [],
         "head_of_mission": "Claire Buckley"
@@ -2212,7 +2212,7 @@
         "first_h2": "Diplomatic and Consular Information for Saudi Arabia",
         "hosts_emb": true,
         "telephone": " +966 11 407 1530",
-        "address": "P.O. Box 94349,Plot No. 3114, Al Idrisi,Assafarat District, Riyadh 12513,Kingdom of Saudi Arabia",
+        "address": "\n                    \n                        P.O. Box 94349, \n                    \n                    \n                        Plot No. 3114, Al Idrisi, \n                    \n                    \n                        Assafarat District, Riyadh 12513, \n                    \n                    \n                        Kingdom of Saudi Arabia \n                    \n                    \n                ",
         "embassy_url": "/en/saudiarabia/riyadh/",
         "consulates": [],
         "head_of_mission": "Gerry Cunningham"
@@ -2226,7 +2226,7 @@
         "first_h2": "Diplomatic and Consular Information for T\u00fcrkiye",
         "hosts_emb": true,
         "telephone": " +90 312 459 1000",
-        "address": "Ugur Mumcu Caddesi No.88MNG Binasi, A&B Blok, Kat 1GaziosmanpasaAnkara 06700",
+        "address": "\n                    \n                        Ugur Mumcu Caddesi No.88 \n                    \n                    \n                        MNG Binasi, A&B Blok, Kat 1 \n                    \n                    \n                        Gaziosmanpasa \n                    \n                    \n                    \n                        Ankara 06700 \n                    \n                ",
         "embassy_url": "/en/turkiye/ankara/",
         "consulates": [],
         "head_of_mission": "John McCullagh"
@@ -2240,7 +2240,7 @@
         "first_h2": "Diplomatic and Consular Information for Palau",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2254,7 +2254,7 @@
         "first_h2": "Diplomatic and Consular Information for the Palestinian Authority",
         "hosts_emb": null,
         "telephone": " +972 2 294 9800",
-        "address": "Al-Wataniah Towers building2nd floorAl-Bireh Municipality StreetRamallah District",
+        "address": "\n                    \n                        Al-Wataniah Towers building \n                    \n                    \n                        2nd floor \n                    \n                    \n                        Al-Bireh Municipality Street \n                    \n                    \n                        Ramallah District \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2268,7 +2268,7 @@
         "first_h2": "Diplomatic and Consular Information for Colombia",
         "hosts_emb": true,
         "telephone": " +57 601 657 6060",
-        "address": "Oficina 1605Edificio Tierra FirmeBogot\u00e1 DCColombiaAk 9 #115-30",
+        "address": "\n                    \n                        Oficina 1605 \n                    \n                    \n                        Edificio Tierra Firme \n                    \n                    \n                        Bogot\u00e1 DC \n                    \n                    \n                        Colombia \n                    \n                    \n                        Ak 9 #115-30 \n                    \n                ",
         "embassy_url": "/en/colombia/bogota/",
         "consulates": [],
         "head_of_mission": "Fiona Nic Dhonnacha"
@@ -2282,7 +2282,7 @@
         "first_h2": "Diplomatic and Consular Information for Australia",
         "hosts_emb": true,
         "telephone": " +61 2 62140000",
-        "address": "20 Arkana StreetYarralumlaACT 2600Canberra",
+        "address": "\n                    \n                        20 Arkana Street \n                    \n                    \n                        Yarralumla \n                    \n                    \n                        ACT 2600 \n                    \n                    \n                    \n                        Canberra \n                    \n                ",
         "embassy_url": "/en/australia/canberra/",
         "consulates": [],
         "head_of_mission": "Tim Mawe"
@@ -2296,7 +2296,7 @@
         "first_h2": "Diplomatic and Consular Information for Argentina",
         "hosts_emb": true,
         "telephone": " +54 (11) 4808-5700",
-        "address": "Edificio Bluesky6th FloorAvenida del Libertador 1068RecoletaBuenos Aires",
+        "address": "\n                    \n                        Edificio Bluesky \n                    \n                    \n                        6th Floor \n                    \n                    \n                        Avenida del Libertador 1068 \n                    \n                    \n                        Recoleta \n                    \n                    \n                        Buenos Aires \n                    \n                ",
         "embassy_url": "/en/argentina/buenosaires/",
         "consulates": [],
         "head_of_mission": "Gerard McCoy"
@@ -2310,7 +2310,7 @@
         "first_h2": "none found",
         "hosts_emb": null,
         "telephone": " +32 02-707-2693",
-        "address": "Boulevard Leopold III1110 BrusselsBelgium",
+        "address": "\n                    \n                        Boulevard Leopold III \n                    \n                    \n                        1110 Brussels \n                    \n                    \n                        Belgium \n                    \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2324,7 +2324,7 @@
         "first_h2": "none found",
         "hosts_emb": null,
         "telephone": "None",
-        "address": "11 boulevard du Pr\u00e9sident Edwards67000 StrasbourgFrance",
+        "address": "\n                    \n                        11 boulevard du Pr\u00e9sident Edwards \n                    \n                    \n                        67000 Strasbourg \n                    \n                    \n                        France \n                    \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2338,7 +2338,7 @@
         "first_h2": "none found",
         "hosts_emb": null,
         "telephone": " +33 1 44 17 67 50",
-        "address": "12 Avenue Foch75116 ParisFrance",
+        "address": "\n                    \n                        12 Avenue Foch \n                    \n                    \n                        75116 Paris \n                    \n                    \n                        France \n                    \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2352,7 +2352,7 @@
         "first_h2": "none found",
         "hosts_emb": null,
         "telephone": " +43 1 715 76 9826",
-        "address": "Rotenturmstrasse 16-185th Floor1010 ViennaAustria",
+        "address": "\n                    \n                        Rotenturmstrasse 16-18 \n                    \n                    \n                        5th Floor \n                    \n                    \n                        1010 Vienna \n                    \n                    \n                        Austria \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2366,7 +2366,7 @@
         "first_h2": "none found",
         "hosts_emb": null,
         "telephone": " +32 2 282 32 00",
-        "address": "Rue Froissart 501040 BrusselsBelgium",
+        "address": "\n                    \n                        Rue Froissart 50 \n                    \n                    \n                        1040 Brussels \n                    \n                    \n                        Belgium \n                    \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2380,7 +2380,7 @@
         "first_h2": "none found",
         "hosts_emb": null,
         "telephone": " +41 22 919 1950",
-        "address": "Rue de Moillebeau 58Case Postale 3391209 Geneva 19Switzerland",
+        "address": "\n                    \n                        Rue de Moillebeau 58 \n                    \n                    \n                        Case Postale 339 \n                    \n                    \n                        1209 Geneva 19 \n                    \n                    \n                        Switzerland \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2394,7 +2394,7 @@
         "first_h2": "none found",
         "hosts_emb": null,
         "telephone": " +1 (212)421-6934",
-        "address": "885 Second Avenue21st Floor(between 47th & 48th st.)NY 10017USA",
+        "address": "\n                    \n                        885 Second Avenue \n                    \n                    \n                        21st Floor \n                    \n                    \n                        (between 47th & 48th st.) \n                    \n                    \n                        NY 10017 \n                    \n                    \n                        USA \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2408,7 +2408,7 @@
         "first_h2": "Diplomatic and Consular Information for Chile",
         "hosts_emb": true,
         "telephone": " +56 233 04 6600",
-        "address": "Avenida Apoquindo 2929Piso 18Las Condes",
+        "address": "\n                    \n                        Avenida Apoquindo 2929 \n                    \n                    \n                        Piso 18 \n                    \n                    \n                        Las Condes \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/chile/santiago/",
         "consulates": [],
         "head_of_mission": "Colum Hatchell"
@@ -2422,7 +2422,7 @@
         "first_h2": "Diplomatic and Consular Information for the Philippines",
         "hosts_emb": null,
         "telephone": " +632 8859 5140",
-        "address": "30/F Tower 2, RCBC Plaza6819 Ayala AvenueMakati City, 1200Philippines",
+        "address": "\n                    \n                        30/F Tower 2, RCBC Plaza \n                    \n                    \n                        6819 Ayala Avenue \n                    \n                    \n                        Makati City, 1200 \n                    \n                    \n                    \n                        Philippines \n                    \n                ",
         "embassy_url": "/en/philippines/manila/",
         "consulates": [],
         "head_of_mission": "William John Carlos"
@@ -2436,7 +2436,7 @@
         "first_h2": "Diplomatic and Consular Information for Pitcairn Island",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2450,7 +2450,7 @@
         "first_h2": "Diplomatic and Consular Information for Poland",
         "hosts_emb": null,
         "telephone": " +48 22 564 2200",
-        "address": "ul. Mysia 5, 6th Floor00-496 WarsawPoland",
+        "address": "\n                    \n                        ul. Mysia 5, 6th Floor \n                    \n                    \n                        00-496 Warsaw \n                    \n                    \n                        Poland \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/poland/warsaw/",
         "consulates": [],
         "head_of_mission": "Patrick Haughey"
@@ -2464,7 +2464,7 @@
         "first_h2": "Diplomatic and Consular Information for France",
         "hosts_emb": true,
         "telephone": " +33 1 44 17 67 00",
-        "address": "12 avenue Foch(entrance 4 rue Rude)75116 ParisFrance",
+        "address": "\n                    \n                        12 avenue Foch \n                    \n                    \n                        (entrance 4 rue Rude) \n                    \n                    \n                        75116 Paris \n                    \n                    \n                    \n                        France \n                    \n                ",
         "embassy_url": "/en/france/paris/",
         "consulates": [],
         "head_of_mission": "Niall Burgess"
@@ -2478,7 +2478,7 @@
         "first_h2": "Diplomatic and Consular Information for Portugal",
         "hosts_emb": null,
         "telephone": " +351 213308200",
-        "address": "Avenida da Liberdade,Nr. 200, 4th floor,Lisbon1250-147",
+        "address": "\n                    \n                        Avenida da Liberdade, \n                    \n                    \n                        Nr. 200, 4th floor, \n                    \n                    \n                        Lisbon \n                    \n                    \n                    \n                        1250-147 \n                    \n                ",
         "embassy_url": "/en/portugal/lisbon/",
         "consulates": [],
         "head_of_mission": "Alma N\u00ed Choigligh"
@@ -2492,7 +2492,7 @@
         "first_h2": "Diplomatic and Consular Information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -2506,7 +2506,7 @@
         "first_h2": "Diplomatic and Consular Information for the United Arab Emirates (UAE)",
         "hosts_emb": true,
         "telephone": " +971 2 4958200",
-        "address": "Atiq Bin Majid Al Muhairi StreetAl Bateen, P.O. Box 61581Abu DhabiUnited Arab Emirates",
+        "address": "\n                    \n                        Atiq Bin Majid Al Muhairi Street \n                    \n                    \n                        Al Bateen, P.O. Box 61581 \n                    \n                    \n                        Abu Dhabi \n                    \n                    \n                    \n                        United Arab Emirates \n                    \n                ",
         "embassy_url": "/en/uae/abudhabi/",
         "consulates": [],
         "head_of_mission": "Alison Milton"
@@ -2520,7 +2520,7 @@
         "first_h2": "Diplomatic and Consular Information for France",
         "hosts_emb": true,
         "telephone": " +33 1 44 17 67 00",
-        "address": "12 avenue Foch(entrance 4 rue Rude)75116 ParisFrance",
+        "address": "\n                    \n                        12 avenue Foch \n                    \n                    \n                        (entrance 4 rue Rude) \n                    \n                    \n                        75116 Paris \n                    \n                    \n                    \n                        France \n                    \n                ",
         "embassy_url": "/en/france/paris/",
         "consulates": [],
         "head_of_mission": "Niall Burgess"
@@ -2534,7 +2534,7 @@
         "first_h2": "Diplomatic and Consular Information for Romania",
         "hosts_emb": null,
         "telephone": " +40 758611959",
-        "address": "Bulevardul Iuliu Maniu 6L,Bucure\u0219ti 061072,BucharestRomania",
+        "address": "\n                    \n                        Bulevardul Iuliu Maniu 6L, \n                    \n                    \n                        Bucure\u0219ti 061072, \n                    \n                    \n                        Bucharest \n                    \n                    \n                    \n                        Romania \n                    \n                ",
         "embassy_url": "/en/romania/bucharest/",
         "consulates": [],
         "head_of_mission": "Brendan Ward"
@@ -2548,7 +2548,7 @@
         "first_h2": "Diplomatic and Consular Information for the Russian Federation",
         "hosts_emb": null,
         "telephone": " +7 4959375911",
-        "address": "Grokholski Pereulok 5Moscow 129090Russia",
+        "address": "\n                    \n                        Grokholski Pereulok 5 \n                    \n                    \n                        Moscow 129090 \n                    \n                    \n                        Russia \n                    \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2562,7 +2562,7 @@
         "first_h2": "Diplomatic and Consular Information for Uganda",
         "hosts_emb": true,
         "telephone": " +256 417-713000",
-        "address": "Post Office Box 7791Plot 25, Yusuf Lule RoadNakaseroKampala",
+        "address": "\n                    \n                        Post Office Box 7791 \n                    \n                    \n                        Plot 25, Yusuf Lule Road \n                    \n                    \n                        Nakasero \n                    \n                    \n                        Kampala \n                    \n                    \n                ",
         "embassy_url": "/en/uganda/kampala/",
         "consulates": [],
         "head_of_mission": "Kevin Colgan"
@@ -2576,7 +2576,7 @@
         "first_h2": "Diplomatic and Consular Information for South Georgia and the South Sandwich Islands",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2590,7 +2590,7 @@
         "first_h2": "Diplomatic and Consular Information for Saint Helena",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2604,7 +2604,7 @@
         "first_h2": "Diplomatic and Consular Information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -2618,7 +2618,7 @@
         "first_h2": "Diplomatic and Consular Information for Saint Pierre and Miquelon",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2632,7 +2632,7 @@
         "first_h2": "Diplomatic and Consular Information for Nigeria",
         "hosts_emb": true,
         "telephone": " +234 209 462 1080",
-        "address": "11 Negro CrescentMaitama DistrictAbujaNigeria",
+        "address": "\n                    \n                        11 Negro Crescent \n                    \n                    \n                        Maitama District \n                    \n                    \n                        Abuja \n                    \n                    \n                        Nigeria \n                    \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
         "head_of_mission": "Peter Ryan"
@@ -2646,7 +2646,7 @@
         "first_h2": "Diplomatic and Consular Information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
         "head_of_mission": "Geraldine Byrne Nason"
@@ -2660,7 +2660,7 @@
         "first_h2": "Diplomatic and Consular Information for Samoa",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2674,7 +2674,7 @@
         "first_h2": "Diplomatic and Consular Information for Italy",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "Villa SpadaVia Giacomo Medici 1Roma 00153Italy",
+        "address": "\n                    \n                        Villa Spada \n                    \n                    \n                        Via Giacomo Medici 1 \n                    \n                    \n                        Roma 00153 \n                    \n                    \n                        Italy \n                    \n                    \n                ",
         "embassy_url": "/en/italy/rome/",
         "consulates": [],
         "head_of_mission": "Patricia O'Brien"
@@ -2688,7 +2688,7 @@
         "first_h2": "Diplomatic and Consular Information for Saudi Arabia",
         "hosts_emb": null,
         "telephone": " +966 11 407 1530",
-        "address": "P.O. Box 94349,Plot No. 3114, Al Idrisi,Assafarat District, Riyadh 12513,Kingdom of Saudi Arabia",
+        "address": "\n                    \n                        P.O. Box 94349, \n                    \n                    \n                        Plot No. 3114, Al Idrisi, \n                    \n                    \n                        Assafarat District, Riyadh 12513, \n                    \n                    \n                        Kingdom of Saudi Arabia \n                    \n                    \n                ",
         "embassy_url": "/en/saudiarabia/riyadh/",
         "consulates": [],
         "head_of_mission": "Gerry Cunningham"
@@ -2702,7 +2702,7 @@
         "first_h2": "Diplomatic and Consular Information for Senegal",
         "hosts_emb": false,
         "telephone": " +221 338 205 003",
-        "address": "1er \u00c9tage, Villa VenusRue du PortugalAvenue des AmbassadeursB.P. 281 DakarSenegal",
+        "address": "\n                    \n                        1er \u00c9tage, Villa Venus \n                    \n                    \n                        Rue du Portugal \n                    \n                    \n                        Avenue des Ambassadeurs \n                    \n                    \n                        B.P. 281 Dakar \n                    \n                    \n                        Senegal \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
         "head_of_mission": "Peter Ryan"
@@ -2716,7 +2716,7 @@
         "first_h2": "Diplomatic and Consular Information for Greece",
         "hosts_emb": true,
         "telephone": " +30 210 723 2771",
-        "address": "7 Leoforos Vasileos Konstantinou106 74AthensGreece",
+        "address": "\n                    \n                        7 Leoforos Vasileos Konstantinou \n                    \n                    \n                        106 74 \n                    \n                    \n                        Athens \n                    \n                    \n                    \n                        Greece \n                    \n                ",
         "embassy_url": "/en/greece/athens/",
         "consulates": [],
         "head_of_mission": "Iseult Fitzgerald"
@@ -2730,7 +2730,7 @@
         "first_h2": "Diplomatic and Consular Information for Tanzania",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "353 Tour\u00e9 Drive, MasakiDar es SalaamTanzania",
+        "address": "\n                    \n                        353 Tour\u00e9 Drive, Masaki \n                    \n                    \n                        Dar es Salaam \n                    \n                    \n                        Tanzania \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/tanzania/daressalaam/",
         "consulates": [],
         "head_of_mission": "Mary O'Neill"
@@ -2744,7 +2744,7 @@
         "first_h2": "Diplomatic and Consular Information for Sierra Leone",
         "hosts_emb": null,
         "telephone": " +232 79 250628",
-        "address": "8 St. Joseph\u2019s AvenueOff Spur RoadFreetownSierra Leone",
+        "address": "\n                    \n                        8 St. Joseph\u2019s Avenue \n                    \n                    \n                        Off Spur Road \n                    \n                    \n                        Freetown \n                    \n                    \n                        Sierra Leone \n                    \n                    \n                ",
         "embassy_url": "/en/sierraleone/freetown/",
         "consulates": [],
         "head_of_mission": "Aidan Fitzpatrick"
@@ -2758,7 +2758,7 @@
         "first_h2": "Diplomatic and Consular Information for Singapore",
         "hosts_emb": null,
         "telephone": " +65 6238 7616",
-        "address": "18 Cross Street#13-04Singapore 048423",
+        "address": "\n                    \n                        18 Cross Street \n                    \n                    \n                        #13-04 \n                    \n                    \n                    \n                    \n                        Singapore 048423 \n                    \n                ",
         "embassy_url": "/en/singapore/embassy/",
         "consulates": [],
         "head_of_mission": "Sarah McGrath"
@@ -2772,7 +2772,7 @@
         "first_h2": "Diplomatic and Consular Information for the Netherlands",
         "hosts_emb": true,
         "telephone": " +31 (0)70 363 0993",
-        "address": "Scheveningseweg 1122584 AE The HagueThe Netherlands",
+        "address": "\n                    \n                        Scheveningseweg 112 \n                    \n                    \n                        2584 AE The Hague \n                    \n                    \n                        The Netherlands \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/thenetherlands/thehague/",
         "consulates": [],
         "head_of_mission": "Brendan Rogers"
@@ -2786,7 +2786,7 @@
         "first_h2": "Diplomatic and Consular Information for the Slovak Republic",
         "hosts_emb": null,
         "telephone": " +421 3233 8700",
-        "address": "Mostov\u00e1 2811 02 BratislavaSlovak Republic",
+        "address": "\n                    \n                        Mostov\u00e1 2 \n                    \n                    \n                        811 02 Bratislava \n                    \n                    \n                        Slovak Republic \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/slovak-republic/bratislava/",
         "consulates": [],
         "head_of_mission": "Dermot McGauran"
@@ -2800,7 +2800,7 @@
         "first_h2": "Diplomatic and Consular Information for Slovenia",
         "hosts_emb": null,
         "telephone": " +386 1 300 8970",
-        "address": "Pala\u010da Kapitelj, 1st floor,Poljanski nasip 61000 LjubljanaSlovenia",
+        "address": "\n                    \n                        Pala\u010da Kapitelj, 1st floor, \n                    \n                    \n                        Poljanski nasip 6 \n                    \n                    \n                        1000 Ljubljana \n                    \n                    \n                    \n                        Slovenia \n                    \n                ",
         "embassy_url": "/en/slovenia/ljubljana/",
         "consulates": [],
         "head_of_mission": "Adrian Farrell"
@@ -2814,7 +2814,7 @@
         "first_h2": "Diplomatic and Consular Information for Australia",
         "hosts_emb": true,
         "telephone": " +61 2 62140000",
-        "address": "20 Arkana StreetYarralumlaACT 2600Canberra",
+        "address": "\n                    \n                        20 Arkana Street \n                    \n                    \n                        Yarralumla \n                    \n                    \n                        ACT 2600 \n                    \n                    \n                    \n                        Canberra \n                    \n                ",
         "embassy_url": "/en/australia/canberra/",
         "consulates": [],
         "head_of_mission": "Tim Mawe"
@@ -2828,10 +2828,10 @@
         "first_h2": "Diplomatic and Consular Information for Kenya",
         "hosts_emb": true,
         "telephone": " +254 020 513 5300",
-        "address": "4th FloorDelta Office SuitesManyani Road, off Waiyaki WayPO Box 30659-00100Nairobi",
+        "address": "\n                    \n                        4th Floor \n                    \n                    \n                        Delta Office Suites \n                    \n                    \n                        Manyani Road, off Waiyaki Way \n                    \n                    \n                        PO Box 30659-00100 \n                    \n                    \n                        Nairobi \n                    \n                ",
         "embassy_url": "/en/kenya/nairobi/",
         "consulates": [],
-        "head_of_mission": "Caitr\u00edona Ingoldsby"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 199,
@@ -2842,10 +2842,10 @@
         "first_h2": "Diplomatic and Consular Information for South Africa",
         "hosts_emb": false,
         "telephone": " +27 12 452 1000",
-        "address": "2nd Floor, Building A, OMK House,238 Florence Ribeiro Avenue, Nieuw Muckleneuk,Pretoria,South Africa0181",
+        "address": "\n                    \n                        2nd Floor, Building A, OMK House, \n                    \n                    \n                        238 Florence Ribeiro Avenue, Nieuw Muckleneuk, \n                    \n                    \n                        Pretoria, \n                    \n                    \n                        South Africa \n                    \n                    \n                        0181 \n                    \n                ",
         "embassy_url": "/en/southafrica/pretoria/",
         "consulates": [],
-        "head_of_mission": "Austin Gormley"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 200,
@@ -2856,10 +2856,10 @@
         "first_h2": "Diplomatic and Consular Information for Ethiopia",
         "hosts_emb": true,
         "telephone": " +251 11 518 0500",
-        "address": "Guinea Conakry StreetAddis AbabaEthiopia",
+        "address": "\n                    \n                        Guinea Conakry Street \n                    \n                    \n                        Addis Ababa \n                    \n                    \n                        Ethiopia \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/ethiopia/addisababa/",
         "consulates": [],
-        "head_of_mission": "Nicola Brennan"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 201,
@@ -2870,10 +2870,10 @@
         "first_h2": "Diplomatic and Consular Information for Spain",
         "hosts_emb": false,
         "telephone": " +34 965 107 485",
-        "address": "Paseo de la Castellana 46-428046Madrid.Spain",
+        "address": "\n                    \n                        Paseo de la Castellana 46-4 \n                    \n                    \n                        28046 \n                    \n                    \n                        Madrid. \n                    \n                    \n                    \n                        Spain \n                    \n                ",
         "embassy_url": "/en/spain/madrid/",
         "consulates": [],
-        "head_of_mission": "Frank Smyth"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 202,
@@ -2884,10 +2884,10 @@
         "first_h2": "Diplomatic and Consular Information for India",
         "hosts_emb": true,
         "telephone": " +91 11 4940 3200",
-        "address": "C17 Malcha MargChanakyapuriNew Delhi 110 021India",
+        "address": "\n                    \n                        C17 Malcha Marg \n                    \n                    \n                        Chanakyapuri \n                    \n                    \n                        New Delhi 110 021 \n                    \n                    \n                    \n                        India \n                    \n                ",
         "embassy_url": "/en/india/newdelhi/",
         "consulates": [],
-        "head_of_mission": "Kevin Kelly"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 203,
@@ -2898,10 +2898,10 @@
         "first_h2": "Diplomatic and Consular Information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
-        "head_of_mission": "Geraldine Byrne Nason"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 204,
@@ -2912,10 +2912,10 @@
         "first_h2": "Diplomatic and Consular Information for Kenya",
         "hosts_emb": true,
         "telephone": " +254 020 513 5300",
-        "address": "4th FloorDelta Office SuitesManyani Road, off Waiyaki WayPO Box 30659-00100Nairobi",
+        "address": "\n                    \n                        4th Floor \n                    \n                    \n                        Delta Office Suites \n                    \n                    \n                        Manyani Road, off Waiyaki Way \n                    \n                    \n                        PO Box 30659-00100 \n                    \n                    \n                        Nairobi \n                    \n                ",
         "embassy_url": "/en/kenya/nairobi/",
         "consulates": [],
-        "head_of_mission": "Caitr\u00edona Ingoldsby"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 205,
@@ -2926,10 +2926,10 @@
         "first_h2": "Diplomatic and Consular Information for Brazil",
         "hosts_emb": true,
         "telephone": " +55 61 3248 8800",
-        "address": "SHIS QL 12 conjunto 05 casa 09Lago SulBras\u00edlia - DFCEP 71630-255Brazil",
+        "address": "\n                    \n                        SHIS QL 12 conjunto 05 casa 09 \n                    \n                    \n                        Lago Sul \n                    \n                    \n                        Bras\u00edlia - DF \n                    \n                    \n                        CEP 71630-255 \n                    \n                    \n                        Brazil \n                    \n                ",
         "embassy_url": "/en/brazil/brasilia/",
         "consulates": [],
-        "head_of_mission": "Fiona Flood"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 206,
@@ -2940,10 +2940,10 @@
         "first_h2": "Diplomatic and Consular Information for Sweden",
         "hosts_emb": null,
         "telephone": " +46 (0) 8 54504040",
-        "address": "Visiting Address:Hovslagargatan 5,111 48 Stockholm,Sweden",
+        "address": "\n                    \n                        Visiting Address: \n                    \n                    \n                        Hovslagargatan 5, \n                    \n                    \n                        111 48 Stockholm, \n                    \n                    \n                        Sweden \n                    \n                    \n                ",
         "embassy_url": "/en/sweden/stockholm/",
         "consulates": [],
-        "head_of_mission": "Barbara Jones"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 207,
@@ -2954,10 +2954,10 @@
         "first_h2": "Diplomatic and Consular Information for Switzerland",
         "hosts_emb": null,
         "telephone": " +41 31 350 03 80",
-        "address": "2nd floor Kirchenfeldstrasse 68P.O. Box 262CH-3000 Berne 6Switzerland",
+        "address": "\n                    \n                        2nd floor Kirchenfeldstrasse 68 \n                    \n                    \n                        P.O. Box 262 \n                    \n                    \n                        CH-3000 Berne 6 \n                    \n                    \n                    \n                        Switzerland \n                    \n                ",
         "embassy_url": "/en/switzerland/berne/",
         "consulates": [],
-        "head_of_mission": "Aoife McGarry"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 208,
@@ -2968,10 +2968,10 @@
         "first_h2": "Diplomatic and Consular Information for Egypt",
         "hosts_emb": true,
         "telephone": " +202 27287100",
-        "address": "18 Hassan Sabry Street11561 ZamalekCairoEgypt",
+        "address": "\n                    \n                        18 Hassan Sabry Street \n                    \n                    \n                        11561 Zamalek \n                    \n                    \n                        Cairo \n                    \n                    \n                    \n                        Egypt \n                    \n                ",
         "embassy_url": "/en/egypt/cairo/",
         "consulates": [],
-        "head_of_mission": "Nuala O'Brien"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 209,
@@ -2982,7 +2982,7 @@
         "first_h2": "Diplomatic and Consular Information for Taiwan",
         "hosts_emb": false,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -2996,7 +2996,7 @@
         "first_h2": "Diplomatic and Consular Information for Russia",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -3010,10 +3010,10 @@
         "first_h2": "Diplomatic and Consular Information for Tanzania",
         "hosts_emb": null,
         "telephone": "None",
-        "address": "353 Tour\u00e9 Drive, MasakiDar es SalaamTanzania",
+        "address": "\n                    \n                        353 Tour\u00e9 Drive, Masaki \n                    \n                    \n                        Dar es Salaam \n                    \n                    \n                        Tanzania \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/tanzania/daressalaam/",
         "consulates": [],
-        "head_of_mission": "Mary O'Neill"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 212,
@@ -3024,10 +3024,10 @@
         "first_h2": "Diplomatic and Consular Information for Thailand",
         "hosts_emb": null,
         "telephone": " +66 2 016 1360",
-        "address": "208 Wireless Road 12th Floor,Unit 1201Lumphini, PathumwanBangkok 10330",
+        "address": "\n                    \n                        208 Wireless Road 12th Floor, \n                    \n                    \n                        Unit 1201 \n                    \n                    \n                        Lumphini, Pathumwan \n                    \n                    \n                    \n                        Bangkok 10330 \n                    \n                ",
         "embassy_url": "/en/thailand/bangkok/",
         "consulates": [],
-        "head_of_mission": "Pat Bourne"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 213,
@@ -3038,10 +3038,10 @@
         "first_h2": "Diplomatic and Consular Information for Indonesia",
         "hosts_emb": true,
         "telephone": " +62 21 280 94300",
-        "address": "World Trade Centre 1, L-14Jl. Jend. Sudirman Kav 29-31Jakarta 12920",
+        "address": "\n                    \n                        World Trade Centre 1, L-14 \n                    \n                    \n                        Jl. Jend. Sudirman Kav 29-31 \n                    \n                    \n                        Jakarta 12920 \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/indonesia/jakarta/",
         "consulates": [],
-        "head_of_mission": "P\u00e1draig Francis"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 214,
@@ -3052,10 +3052,10 @@
         "first_h2": "Diplomatic and Consular Information for Nigeria",
         "hosts_emb": true,
         "telephone": " +234 209 462 1080",
-        "address": "11 Negro CrescentMaitama DistrictAbujaNigeria",
+        "address": "\n                    \n                        11 Negro Crescent \n                    \n                    \n                        Maitama District \n                    \n                    \n                        Abuja \n                    \n                    \n                        Nigeria \n                    \n                    \n                ",
         "embassy_url": "/en/nigeria/abuja/",
         "consulates": [],
-        "head_of_mission": "Peter Ryan"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 215,
@@ -3066,7 +3066,7 @@
         "first_h2": "Diplomatic and Consular Information for Tokelau",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -3080,7 +3080,7 @@
         "first_h2": "Diplomatic and Consular Information for Tonga",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -3094,7 +3094,7 @@
         "first_h2": "Diplomatic and Consular Information for Trinidad and Tobago",
         "hosts_emb": false,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -3108,10 +3108,10 @@
         "first_h2": "Diplomatic and Consular Information for Morocco",
         "hosts_emb": true,
         "telephone": " +212 530134083",
-        "address": "Rabat Mahaj Ryad Centre,Avenue Attine, B\u00e2timent 7,Hay Ryad,Rabat, Morocco",
+        "address": "\n                    \n                        Rabat Mahaj Ryad Centre, \n                    \n                    \n                        Avenue Attine, B\u00e2timent 7, \n                    \n                    \n                        Hay Ryad, \n                    \n                    \n                        Rabat, Morocco \n                    \n                    \n                ",
         "embassy_url": "/en/morocco/rabat/",
         "consulates": [],
-        "head_of_mission": "James McIntyre"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 219,
@@ -3122,10 +3122,10 @@
         "first_h2": "Diplomatic and Consular Information for T\u00fcrkiye",
         "hosts_emb": null,
         "telephone": " +90 312 459 1000",
-        "address": "Ugur Mumcu Caddesi No.88MNG Binasi, A&B Blok, Kat 1GaziosmanpasaAnkara 06700",
+        "address": "\n                    \n                        Ugur Mumcu Caddesi No.88 \n                    \n                    \n                        MNG Binasi, A&B Blok, Kat 1 \n                    \n                    \n                        Gaziosmanpasa \n                    \n                    \n                    \n                        Ankara 06700 \n                    \n                ",
         "embassy_url": "/en/turkiye/ankara/",
         "consulates": [],
-        "head_of_mission": "John McCullagh"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 220,
@@ -3136,7 +3136,7 @@
         "first_h2": "Diplomatic and Consular Information for Russia",
         "hosts_emb": true,
         "telephone": " +7 4959375911",
-        "address": "Grokholski Pereulok 5Moscow 129090Russia",
+        "address": "\n                    \n                        Grokholski Pereulok 5 \n                    \n                    \n                        Moscow 129090 \n                    \n                    \n                        Russia \n                    \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -3150,10 +3150,10 @@
         "first_h2": "Diplomatic and Consular Information for the United States of America",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
-        "head_of_mission": "Geraldine Byrne Nason"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 222,
@@ -3164,7 +3164,7 @@
         "first_h2": "Diplomatic and Consular Information for Tuvalu",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -3178,10 +3178,10 @@
         "first_h2": "Diplomatic and Consular Information for Uganda",
         "hosts_emb": null,
         "telephone": " +256 417-713000",
-        "address": "Post Office Box 7791Plot 25, Yusuf Lule RoadNakaseroKampala",
+        "address": "\n                    \n                        Post Office Box 7791 \n                    \n                    \n                        Plot 25, Yusuf Lule Road \n                    \n                    \n                        Nakasero \n                    \n                    \n                        Kampala \n                    \n                    \n                ",
         "embassy_url": "/en/uganda/kampala/",
         "consulates": [],
-        "head_of_mission": "Kevin Colgan"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 224,
@@ -3192,10 +3192,10 @@
         "first_h2": "Diplomatic and Consular Information for Ukraine",
         "hosts_emb": null,
         "telephone": " +380 67 448 0786",
-        "address": "3rd floorVolodymyrska Street 101Kyiv 01033Ukraine",
+        "address": "\n                    \n                        3rd floor \n                    \n                    \n                        Volodymyrska Street 101 \n                    \n                    \n                        Kyiv 01033 \n                    \n                    \n                    \n                        Ukraine \n                    \n                ",
         "embassy_url": "/en/kyiv/",
         "consulates": [],
-        "head_of_mission": "Th\u00e9r\u00e8se Healy"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 225,
@@ -3206,10 +3206,10 @@
         "first_h2": "Diplomatic and Consular Information for the United Arab Emirates (UAE)",
         "hosts_emb": null,
         "telephone": " +971 2 4958200",
-        "address": "Atiq Bin Majid Al Muhairi StreetAl Bateen, P.O. Box 61581Abu DhabiUnited Arab Emirates",
+        "address": "\n                    \n                        Atiq Bin Majid Al Muhairi Street \n                    \n                    \n                        Al Bateen, P.O. Box 61581 \n                    \n                    \n                        Abu Dhabi \n                    \n                    \n                    \n                        United Arab Emirates \n                    \n                ",
         "embassy_url": "/en/uae/abudhabi/",
         "consulates": [],
-        "head_of_mission": "Alison Milton"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 226,
@@ -3220,51 +3220,51 @@
         "first_h2": "Diplomatic and Consular Information for the United States of America (USA)",
         "hosts_emb": false,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [
             {
                 "city": "Atlanta",
                 "consulate_url": "https://www.ireland.ie/en/usa/atlanta/",
-                "consul_general": "Caoimhe N\u00ed Chonch\u00fair"
+                "consul_general": "none found"
             },
             {
                 "city": "Austin",
                 "consulate_url": "https://www.ireland.ie/en/usa/austin/",
-                "consul_general": "Robert Hull"
+                "consul_general": "none found"
             },
             {
                 "city": "Boston",
                 "consulate_url": "https://www.ireland.ie/en/usa/boston/",
-                "consul_general": "S\u00edghle FitzGerald"
+                "consul_general": "none found"
             },
             {
                 "city": "Chicago",
                 "consulate_url": "https://www.ireland.ie/en/usa/chicago/",
-                "consul_general": "Kevin Byrne"
+                "consul_general": "none found"
             },
             {
                 "city": "Los Angeles",
                 "consulate_url": "/en/usa/losangeles/",
-                "consul_general": "Marcella Smyth"
+                "consul_general": "none found"
             },
             {
                 "city": "Miami",
                 "consulate_url": "https://www.ireland.ie/en/usa/miami/",
-                "consul_general": "Sarah Kavanagh"
+                "consul_general": "none found"
             },
             {
                 "city": "New York",
                 "consulate_url": "https://www.ireland.ie/en/usa/newyork/",
-                "consul_general": "Helena Nolan"
+                "consul_general": "none found"
             },
             {
                 "city": "San Francisco",
                 "consulate_url": "https://www.ireland.ie/en/usa/sanfrancisco/",
-                "consul_general": "Miche\u00e1l Smith"
+                "consul_general": "none found"
             }
         ],
-        "head_of_mission": "Geraldine Byrne Nason"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 227,
@@ -3275,10 +3275,10 @@
         "first_h2": "Diplomatic and Consular Information for Argentina",
         "hosts_emb": true,
         "telephone": " +54 (11) 4808-5700",
-        "address": "Edificio Bluesky6th FloorAvenida del Libertador 1068RecoletaBuenos Aires",
+        "address": "\n                    \n                        Edificio Bluesky \n                    \n                    \n                        6th Floor \n                    \n                    \n                        Avenida del Libertador 1068 \n                    \n                    \n                        Recoleta \n                    \n                    \n                        Buenos Aires \n                    \n                ",
         "embassy_url": "/en/argentina/buenosaires/",
         "consulates": [],
-        "head_of_mission": "Gerard McCoy"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 228,
@@ -3289,10 +3289,10 @@
         "first_h2": "Diplomatic and Consular Information for the USA",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
-        "head_of_mission": "Geraldine Byrne Nason"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 229,
@@ -3303,7 +3303,7 @@
         "first_h2": "Diplomatic and Consular Information for Russia",
         "hosts_emb": true,
         "telephone": " +7 4959375911",
-        "address": "Grokholski Pereulok 5Moscow 129090Russia",
+        "address": "\n                    \n                        Grokholski Pereulok 5 \n                    \n                    \n                        Moscow 129090 \n                    \n                    \n                        Russia \n                    \n                    \n                    \n                ",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -3317,7 +3317,7 @@
         "first_h2": "Diplomatic and Consular Information for Vanuatu",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -3331,10 +3331,10 @@
         "first_h2": "Diplomatic and Consular Information for Colombia",
         "hosts_emb": true,
         "telephone": " +57 601 657 6060",
-        "address": "Oficina 1605Edificio Tierra FirmeBogot\u00e1 DCColombiaAk 9 #115-30",
+        "address": "\n                    \n                        Oficina 1605 \n                    \n                    \n                        Edificio Tierra Firme \n                    \n                    \n                        Bogot\u00e1 DC \n                    \n                    \n                        Colombia \n                    \n                    \n                        Ak 9 #115-30 \n                    \n                ",
         "embassy_url": "/en/colombia/bogota/",
         "consulates": [],
-        "head_of_mission": "Fiona Nic Dhonnacha"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 232,
@@ -3345,7 +3345,7 @@
         "first_h2": "Diplomatic and Consular Information for Vietnam",
         "hosts_emb": null,
         "telephone": " +84 24 3974 3291",
-        "address": "2nd floor,41A Ly Thai ToHoan Kiem District, HanoiVietnam",
+        "address": "\n                    \n                        2nd floor, \n                    \n                    \n                        41A Ly Thai To \n                    \n                    \n                        Hoan Kiem District, Hanoi \n                    \n                    \n                    \n                        Vietnam \n                    \n                ",
         "embassy_url": "/en/vietnam/hanoi/",
         "consulates": [],
         "head_of_mission": "none found"
@@ -3359,10 +3359,10 @@
         "first_h2": "Diplomatic and Consular Information for the USA",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
-        "head_of_mission": "Geraldine Byrne Nason"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 234,
@@ -3373,10 +3373,10 @@
         "first_h2": "Diplomatic and Consular Information for the USA",
         "hosts_emb": true,
         "telephone": " +1 202 462 3939",
-        "address": "2234 Massachusetts AveNW Washington DC 20008USA",
+        "address": "\n                    \n                        2234 Massachusetts Ave \n                    \n                    \n                        NW Washington DC 20008 \n                    \n                    \n                        USA \n                    \n                    \n                    \n                ",
         "embassy_url": "/en/usa/washington/",
         "consulates": [],
-        "head_of_mission": "Geraldine Byrne Nason"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 235,
@@ -3387,7 +3387,7 @@
         "first_h2": "Diplomatic and Consular Information for Wallis and Futuna Islands",
         "hosts_emb": true,
         "telephone": "None",
-        "address": "None",
+        "address": "none found",
         "embassy_url": "none found",
         "consulates": [],
         "head_of_mission": "none found"
@@ -3401,10 +3401,10 @@
         "first_h2": "Diplomatic and Consular Information for Saudi Arabia",
         "hosts_emb": true,
         "telephone": " +966 11 407 1530",
-        "address": "P.O. Box 94349,Plot No. 3114, Al Idrisi,Assafarat District, Riyadh 12513,Kingdom of Saudi Arabia",
+        "address": "\n                    \n                        P.O. Box 94349, \n                    \n                    \n                        Plot No. 3114, Al Idrisi, \n                    \n                    \n                        Assafarat District, Riyadh 12513, \n                    \n                    \n                        Kingdom of Saudi Arabia \n                    \n                    \n                ",
         "embassy_url": "/en/saudiarabia/riyadh/",
         "consulates": [],
-        "head_of_mission": "Gerry Cunningham"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 237,
@@ -3415,10 +3415,10 @@
         "first_h2": "Diplomatic and Consular Information for Zambia",
         "hosts_emb": null,
         "telephone": "None",
-        "address": "6663 Katima Mulilo Rd,P.O. Box 34923,Lusaka 10101,Zambia",
+        "address": "\n                    \n                        6663 Katima Mulilo Rd, \n                    \n                    \n                        P.O. Box 34923, \n                    \n                    \n                        Lusaka 10101, \n                    \n                    \n                        Zambia \n                    \n                    \n                ",
         "embassy_url": "/en/zambia/lusaka/",
         "consulates": [],
-        "head_of_mission": "Bronagh Carr"
+        "head_of_mission": "none found"
     },
     {
         "item_count": 238,
@@ -3429,9 +3429,9 @@
         "first_h2": "Diplomatic and Consular Information for South Africa",
         "hosts_emb": true,
         "telephone": " +27 12 452 1000",
-        "address": "2nd Floor, Building A, OMK House,238 Florence Ribeiro Avenue, Nieuw Muckleneuk,Pretoria,South Africa0181",
+        "address": "\n                    \n                        2nd Floor, Building A, OMK House, \n                    \n                    \n                        238 Florence Ribeiro Avenue, Nieuw Muckleneuk, \n                    \n                    \n                        Pretoria, \n                    \n                    \n                        South Africa \n                    \n                    \n                        0181 \n                    \n                ",
         "embassy_url": "/en/southafrica/pretoria/",
         "consulates": [],
-        "head_of_mission": "Austin Gormley"
+        "head_of_mission": "none found"
     }
 ]
