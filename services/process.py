@@ -174,22 +174,23 @@ def special_missions_from_json(json_data: dict) -> list[beanie.Document]:
         if _is_a_special_mission(item["accordion_title"]):
             item["address"] = _clean_address(item["address"])
             objects.append(item)
+
     return [models.Representation(
         head_of_mission=models.Diplomat(
-            full_name=item["head_of_mission"],
-            first_name=do_string.name_splitting_from(item["head_of_mission"]).first,
-            last_name=do_string.name_splitting_from(item["head_of_mission"]).last,
-            mission_title=item["accordion_title"],
+            full_name=mission["head_of_mission"],
+            first_name=do_string.name_splitting_from(mission["head_of_mission"]).first,
+            last_name=do_string.name_splitting_from(mission["head_of_mission"]).last,
+            mission_title=mission["accordion_title"],
             mission_type="representation"
             ),
         contact=models.ContactDetails(
             address1=mission["address"],
-            tel=mission["telephone"],
+            tel=mission["telephone"].strip(),
             ),
         website=mission["embassy_url"],
         representation_name=mission["accordion_title"],
-        host_city=mission["address"],
-        host_country=mission["address"],
+        host_city=do_string.extract_city_and_country_from(mission["address"]).city,
+        host_country=do_string.extract_city_and_country_from(mission["address"]).country,
         ) for mission in objects]
 
 

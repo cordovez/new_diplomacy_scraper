@@ -1,5 +1,6 @@
-from schemas.schemas import DiplomatName
+from schemas.schemas import DiplomatName, CityCountry
 import re
+
 
 def name_splitting_from(fullname: str) -> DiplomatName:
     """
@@ -29,4 +30,14 @@ def country_extraction_from(url_path: str) -> str:
     return "Invalid URL path" if len(parts) < 2 else parts[1]
 
 
+def extract_city_and_country_from(address: str) -> CityCountry:
+    pattern = r';\s*([\w\s-]+?)\s*;\s*([\w\s]+)\s*$'
+    # pattern = r';\s*([a-zA-Z\s-]+?)\s*;\s*([a-zA-Z\s]+)\s*$'
 
+    if match := re.search(pattern, address):
+        city = match.group(1).strip()
+        modified_city = re.sub(r'[0-9]+', '', city).strip()
+        country = match.group(2).strip()
+        return CityCountry(modified_city, country)
+    else:
+        return CityCountry(None, None)

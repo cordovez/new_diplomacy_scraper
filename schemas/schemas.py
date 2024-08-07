@@ -8,3 +8,8 @@ class DiplomatName(NamedTuple):
     """
     first: str
     last: str
+
+
+class CityCountry(NamedTuple):
+    city: str
+    country: str

@@ -49,8 +49,8 @@ class Mission(beanie.Document):
 class Representation(Mission):
     type_of: str = "representation"
     representation_name: str
-    host_city: str
-    host_country: str
+    host_city: str | None = None
+    host_country: str | None = None
 
     class Settings:
         name = "representations"
