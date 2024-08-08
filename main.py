@@ -49,15 +49,15 @@ async def main() -> None:
 
     # ------------------To convert data into beanie.Document models:
     # countries = process.countries_from_json(json_data)
-    # special_missions = process.special_missions_from_json(json_data)
-    consulates = process.consulates_from_json(json_data)
+    special_missions = process.special_missions_from_json(json_data)
+    # consulates = process.consulates_from_json(json_data)
     # embassies = process.embassies_from_json(json_data)
     # diplomats = process.diplomats_from_json(json_data)
     # print(diplomats)
     # print([diplomat for diplomat in diplomats if diplomat.last_name == 'Almqvist'])
 
     # -----------------To Save documents to MongoDB
-    result = await into_db.save_many_to_collection(models.Consulate, consulates)
+    result = await into_db.save_many_to_collection(models.Representation, special_missions)
     print(result)
 
 

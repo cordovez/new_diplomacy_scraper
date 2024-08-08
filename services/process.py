@@ -115,6 +115,7 @@ def diplomats_from_json(json_data: dict) -> list[beanie.Document]:
                 "full_name": ambassador,
                 "mission_title": item["first_h3"],
                 "mission_type": "embassy",
+                "mission": item["accordion_title"],
                 })
 
     for item in json_data:
@@ -126,6 +127,7 @@ def diplomats_from_json(json_data: dict) -> list[beanie.Document]:
                     "mission_title": f"Consulate General of Ireland, "
                                      f"{consulate['city']}",
                     "mission_type": "consulate",
+                    "mission": consulate["city"],
                     })
     return [models.Diplomat(
         full_name=diplomat["full_name"],
@@ -133,6 +135,7 @@ def diplomats_from_json(json_data: dict) -> list[beanie.Document]:
         last_name=do_string.name_splitting_from(diplomat["full_name"]).last,
         mission_title=diplomat["mission_title"],
         mission_type=diplomat["mission_type"],
+        mission=diplomat["mission"]
         ) for diplomat in diplomats]
 
 

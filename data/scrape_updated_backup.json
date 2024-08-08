@@ -1150,13 +1150,13 @@
             },
             {
                 "city": "Edinburgh",
-                "consulate_url": "https://www.ireland.ie/en/great-britain/edinburgh/",
-                "consul_general": "none found"
+                "consulate_url": "https://www.ireland.ie/en/greatbritain/edinburgh/",
+                "consul_general": "Jerry O'Donovan"
             },
             {
                 "city": "Manchester",
-                "consulate_url": "https://www.ireland.ie/en/great-britain/manchester/",
-                "consul_general": "none found"
+                "consulate_url": "https://www.ireland.ie/en/greatbritain/manchester/",
+                "consul_general": "Sarah Mangan"
             }
         ],
         "head_of_mission": "Martin Fraser"

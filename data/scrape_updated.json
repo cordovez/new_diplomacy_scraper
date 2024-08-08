@@ -1150,13 +1150,13 @@
             },
             {
                 "city": "Edinburgh",
-                "consulate_url": "https://www.ireland.ie/en/great-britain/edinburgh/",
-                "consul_general": "none found"
+                "consulate_url": "https://www.ireland.ie/en/greatbritain/edinburgh/",
+                "consul_general": "Jerry O'Donovan"
             },
             {
                 "city": "Manchester",
-                "consulate_url": "https://www.ireland.ie/en/great-britain/manchester/",
-                "consul_general": "none found"
+                "consulate_url": "https://www.ireland.ie/en/greatbritain/manchester/",
+                "consul_general": "Sarah Mangan"
             }
         ],
         "head_of_mission": "Martin Fraser"
@@ -2311,9 +2311,9 @@
         "hosts_emb": null,
         "telephone": " +32 02-707-2693",
         "address": "\n                    \n                        Boulevard Leopold III \n                    \n                    \n                        1110 Brussels \n                    \n                    \n                        Belgium \n                    \n                    \n                    \n                ",
-        "embassy_url": "none found",
+        "embassy_url": "/en/partnership-for-peace-delegation-brussels/",
         "consulates": [],
-        "head_of_mission": "none found"
+        "head_of_mission": "Kevin Conmy"
     },
     {
         "item_count": 162,
@@ -2325,9 +2325,9 @@
         "hosts_emb": null,
         "telephone": "None",
         "address": "\n                    \n                        11 boulevard du Président Edwards \n                    \n                    \n                        67000 Strasbourg \n                    \n                    \n                        France \n                    \n                    \n                    \n                ",
-        "embassy_url": "none found",
+        "embassy_url": "/en/coe/strasbourg/",
         "consulates": [],
-        "head_of_mission": "none found"
+        "head_of_mission": "Catríona Doyle"
     },
     {
         "item_count": 163,
@@ -2339,9 +2339,9 @@
         "hosts_emb": null,
         "telephone": " +33 1 44 17 67 50",
         "address": "\n                    \n                        12 Avenue Foch \n                    \n                    \n                        75116 Paris \n                    \n                    \n                        France \n                    \n                    \n                    \n                ",
-        "embassy_url": "none found",
+        "embassy_url": "/en/oecd-unesco/paris/",
         "consulates": [],
-        "head_of_mission": "none found"
+        "head_of_mission": "Gerard Keown"
     },
     {
         "item_count": 164,
@@ -2353,9 +2353,9 @@
         "hosts_emb": null,
         "telephone": " +43 1 715 76 9826",
         "address": "\n                    \n                        Rotenturmstrasse 16-18 \n                    \n                    \n                        5th Floor \n                    \n                    \n                        1010 Vienna \n                    \n                    \n                        Austria \n                    \n                    \n                ",
-        "embassy_url": "none found",
+        "embassy_url": "/en/osce/vienna/",
         "consulates": [],
-        "head_of_mission": "none found"
+        "head_of_mission": "Anne-Marie Callan"
     },
     {
         "item_count": 165,
@@ -2367,9 +2367,9 @@
         "hosts_emb": null,
         "telephone": " +32 2 282 32 00",
         "address": "\n                    \n                        Rue Froissart 50 \n                    \n                    \n                        1040 Brussels \n                    \n                    \n                        Belgium \n                    \n                    \n                    \n                ",
-        "embassy_url": "none found",
+        "embassy_url": "/en/eu/brussels/",
         "consulates": [],
-        "head_of_mission": "none found"
+        "head_of_mission": "Aingeal O'Donoghue"
     },
     {
         "item_count": 166,
@@ -2381,9 +2381,9 @@
         "hosts_emb": null,
         "telephone": " +41 22 919 1950",
         "address": "\n                    \n                        Rue de Moillebeau 58 \n                    \n                    \n                        Case Postale 339 \n                    \n                    \n                        1209 Geneva 19 \n                    \n                    \n                        Switzerland \n                    \n                    \n                ",
-        "embassy_url": "none found",
+        "embassy_url": "/en/un/geneva/",
         "consulates": [],
-        "head_of_mission": "none found"
+        "head_of_mission": "Noel White"
     },
     {
         "item_count": 167,
@@ -2395,9 +2395,9 @@
         "hosts_emb": null,
         "telephone": " +1 (212)421-6934",
         "address": "\n                    \n                        885 Second Avenue \n                    \n                    \n                        21st Floor \n                    \n                    \n                        (between 47th & 48th st.) \n                    \n                    \n                        NY 10017 \n                    \n                    \n                        USA \n                    \n                ",
-        "embassy_url": "none found",
+        "embassy_url": "/en/un/newyork/",
         "consulates": [],
-        "head_of_mission": "none found"
+        "head_of_mission": "Fergal Mythen"
     },
     {
         "item_count": 168,
